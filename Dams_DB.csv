@@ -1,0 +1,120 @@
+OBJECTID,GID0,Op_ID,NOME1,ESTAGIO2,LATITUDE5,LONGITUD6,COMPFIN7,MUNIC110,MUNIC212,UF113,UF214,RIO17,Output_KW,AREA_RES25,Flooded Area,CONTR_BEGI,RES_FILL,OPER_Month,OPER_Year
+1,2,,Agua Branca,Inventoried,0.955955,-52.024881,N5O,Ferreira Gomes, ,AP, ,Amapari,73000,0,,,,,
+2,6,,Agua Limpa,Technical Feasibility Accepted,-15.371389,-53.369722,N5O,General Carneiro,Novo Sao Joaquim,MT,MT,das Mortes,320000,17.9,,,,,
+3,25,,Araguainha,Inventoried,-16.8875,-53.021111,N5O,Santa Rita do Araguaia,Alto Araguaia,GO,MT,Araguaia,48000,57.4,,,,,
+4,26,,Araguann,Inventoried,-6.616667,-48.65,N4O,Araguan,Pioarra,TO,PA,Baixo Araguaia / Tocantins (Revis/o),960000,2297,,,,,
+5,29,,Arraias,Inventoried,-12.425833,-47.451389,N4O,Concei,Parana,TO,TO,Palma,93000,72.8,,,,,
+6,34,1,Balbina,Operational,-1.9154,-59.4729,SIM,Presidente Figueiredo,,AM,,Uatumã,"249,750","4,437.72","4,418.08",1977,1987,2,1989
+6,34,2,Balbina,Operational,-1.9154,-59.4729,SIM,Urucará,,AM,,Uatumã,"249,750","4,437.72",19.64,1977,1987,2,1989
+7,35,,Bambu I,Inventoried,0.792,-52.608333,N5O,Pedra Branca do Amapari, ,PB, ,Araguari,84000,0,,,,,
+8,43,,Barra do Claro,Inventoried,-13.411944,-56.581667,N5O,Sao Jos,Nova Mutum,MT,MT,Arinos,61000,69.27,,,,,
+9,44,,Barra do Palma,Inventoried,-12.608799,-47.797096,N4O,Parana, ,TO, ,Palma,58000,82,,,,,
+10,53,,Belo Monte,Technical Feasibility Approved,-3.126389,-51.775,N5O,Vitaria do Xingu, ,PA, ,Xingr,11187000,440,,,,,
+11,55,,Berimbau,Technical Feasibility Registered,-1.331389,-55.1775,N5O,Alenquer, ,PA, ,Curuq,66000,16.02,,,,,
+12,70,,Brej,Technical Feasibility Registered,-10.156944,-46.951389,N4O,Sao Felix do Tocantins, ,TO, ,do Sono,75000,6.08,,,,,
+13,74,,Cachoeira Caldeiroo,Technical Feasibility Registered,1.853,-51.291667,N5O,Pracuaba, ,AP, ,Araguari,134000,51.25,,,,,
+14,75,,Cachoeira Caracol,Inventoried,-8.802778,-66.148056,N6O,Lambrea, ,AM, ,Endimari,32600,0.95,,,,,
+15,76,,Cachoeira do Cao,Technical Feasibility Registered,-5.084642,-56.468083,N5O,Itaituba,Traireo,PA,PA,Jamanxim,420000,420,,,,,
+16,77,,Cachoeira do Meio,Inventoried,-8.839444,-66.170278,N6O,Lambrea, ,AM, ,Ituxi,44900,53.03,,,,,
+17,79,,Cachoeira Duas Irmas,Inventoried,1.433,-51.916667,N5O,Caloene, ,AP, ,Tartarugal Grande,2300,18.305,,,,,
+18,80,,Cachoeira Fortaleza,Inventoried,-8.832778,-66.148889,N6O,Lambrea, ,AM, ,Ituxi,50800,1.85,,,,,
+19,81,,Cachoeira Santo Ant,Inventoried,-8.5975,-65.552222,N6O,Lambrea, ,AM, ,Curuqueto,48400,93.72,,,,,
+20,82,,Cachoeira Sio Josn,Inventoried,-8.801667,-66.209444,N6O,Lambrea, ,AM, ,Endimari,36000,103.78,,,,,
+21,83,,Cachoeira Velha,Inventoried,-10.238056,-46.873056,N4O,Mateiros, ,TO, ,Novo,81000,1.95,,,,,
+22,84,,porto da Serra I,Inventoried,-12.989414,-58.958098,N5O,Sapezal,Campos de Jolio,MT,MT,Juruena (Trecho entre a foz do rio Ju9na e a ponte da rodovia MT-235),64000,2.57,,,,,
+23,98,,Canto do Rio,Technical Feasibility Registered,-8.616944,-45.788333,N4O,Santa Filomena,Tasso Fragoso,PI,MA,Parna ba,65000,76,,,,,
+24,100,,Casca III,Operational,-15.358611,-55.461667,SIM,Chapada dos GuimarSes, ,MT, ,Casca,12420,0,,,,,
+25,108,,Cinta Larga,Inventoried,-10.963056,-58.331667,N5O,Brasnorte,Juara,MT,MT,do Sangue,193700,165.3,,,,,
+26,109,3,Coaracy Nunes,Operational,0.9035,-51.2588,SIM,Ferreira Gomes,Macapo,AP,AP,Araguari,"76,952",30.37,30.37,1967,1975,12,1975
+27,110,,Colider,Technical Feasibility Registered,-10.984722,-55.762778,N5O,Nova Cana do Norte,Itaiba,MT,MT,Teles Pires,342000,123.32,,,,,
+28,118,4,Curuá-Una,Operational,-2.811667,-54.298889,SIM,Santarém,,PA,,Curua-Una,"30,300",106.25,106.25,1968,1977,1,1977.00
+29,119,5,Dardanelos,Operational,-10.163333,-59.464167,N5O,Aripuan,,MT,,Aripuan,"261,000",0,0,2007,2011,8,2001.00
+30,132,6,Estreito,Operational,-6.587222,-47.459444,N4O,Babaçulândia,Estreito,TO,,Tocantins,"1,087,000",635.83,94.69,2007,2010,4,2001.00
+30,132,7,Estreito,Operational,-6.587222,-47.459444,N4O,Barra do Ouro,Estreito,TO,,Tocantins,"1,087,000",635.83,47.78,2007,2010,4,2001.00
+30,132,8,Estreito,Operational,-6.587222,-47.459444,N4O,Darcinópolis,Estreito,TO,,Tocantins,"1,087,000",635.83,39.04,2007,2010,4,2001.00
+30,132,9,Estreito,Operational,-6.587222,-47.459444,N4O,Filadélfia,Estreito,TO,,Tocantins,"1,087,000",635.83,114.44,2007,2010,4,2001.00
+30,132,10,Estreito,Operational,-6.587222,-47.459444,N4O,Goiatins,Estreito,TO,,Tocantins,"1,087,000",635.83,15,2007,2010,4,2001.00
+30,132,11,Estreito,Operational,-6.587222,-47.459444,N4O,Itapiratins,Estreito,TO,,Tocantins,"1,087,000",635.83,15.24,2007,2010,4,2001.00
+30,132,12,Estreito,Operational,-6.587222,-47.459444,N4O,Palmeirante,Estreito,TO,,Tocantins,"1,087,000",635.83,25.45,2007,2010,4,2001.00
+30,132,13,Estreito,Operational,-6.587222,-47.459444,N4O,Palmeiras do Tocantins,Estreito,TO,,Tocantins,"1,087,000",635.83,28.02,2007,2010,4,2001.00
+30,132,14,Estreito,Operational,-6.587222,-47.459444,N4O,Tupiratins,Estreito,TO,,Tocantins,"1,087,000",635.83,0.89,2007,2010,4,2001.00
+30,132,15,Estreito,Operational,-6.587222,-47.459444,N4O,Carolina,Estreito,MA,,Tocantins,"1,087,000",635.83,206.43,2007,2010,4,2001.00
+30,132,16,Estreito,Operational,-6.587222,-47.459444,N4O,Estreito,Estreito,MA,,Tocantins,"1,087,000",635.83,48.85,2007,2010,4,2001.00
+31,136,17,Ferreira Gomes,Operational,0.8524,-51.1996,N5O,Ferreira Gomes,,AP,,Araguari,"168,000",17.72,17.72,2011,NA,11,2014.00
+32,141,,Foz do Apiaccs,Technical Feasibility Registered,-9.206667,-57.0875,N5O,Paranata,Apiocas,MT,PA,Apiacas,275000,59.5,,,,,
+33,170,18,Guapore,Operational,-15.123889,-58.964722,SIM,Pontes e Lacerda,,MT,,Guaporé,"124,200",5.09,0,2001,2002,4,2003
+33,170,19,Guapore,Operational,-15.123889,-58.964722,SIM,Vale de São Domingos,,MT,,Guaporé,"124,200",5.09,5.09,2001,2002,4,2003
+34,182,,Ipueiras,Technical Feasibility Approved,-11.25,-48.45,N4O,Ipueiras, ,TO, ,Tocantins,480000,933.5,,,,,
+35,184,,Isamu Ikeda,Operational,-10.700833,-47.793889,SIM,Monte do Carmo,Ponte Alta do Tocantins,TO,TO,Balsas Mineiro,27600,0,,,,,
+36,194,20,Itiquira (Casas de ForAas I e II),Operational,-17.090647,-54.830736,SIM,Itiquira,,MT,,Itiquira,"156,000",3.71,3.71,1998,2002,11,2002
+37,209,,Jatobd,Technical Feasibility Registered,-5.196619,-56.919674,N5O,Itaituba, ,PA, ,Tapajus,2338,646.3,,,,,
+38,210,21,Jauru,Operational,-15.235556,-58.727778,SIM,Araputanga,,MT,,Jauru,"121,500",4.62,0.1,2000,2002,6,2003
+38,210,22,Jauru,Operational,-15.235556,-58.727778,SIM,Indiavaí,,MT,,Jauru,"121,500",4.62,2.13,2000,2002,6,2003
+38,210,23,Jauru,Operational,-15.235556,-58.727778,SIM,Jauru,,MT,,Jauru,"121,500",4.62,2.39,2000,2002,6,2003
+39,213,24,Jirau,Operational,-9.331111,-64.734444,N6O,Porto Velho,,RO,,Madeira,"2,100,000",574.92,574.92,2010,2012,9,2013
+40,216,25,Juba I,Operational,-14.748333,-58.073889,SIM,Barra do Bugres,,MT,,Juba,"42,000",0.92,0.65,1989,1995,11,1995
+40,216,26,Juba I,Operational,-14.748333,-58.073889,SIM,Tangará da Serra,,MT,,Juba,"42,000",0.92,0.26,1989,1995,11,1995
+41,217,27,Juba II,Operational,-14.756111,-58.023056,SIM,Barra do Bugres,,MT,,Juba,"42,000",2.78,2.24,1990,1995,8,1995
+41,217,28,Juba II,Operational,-14.756111,-58.023056,SIM,Tangará da Serra,,MT,,Juba,"42,000",2.78,0.54,1990,1995,8,1995
+42,218,,Juba III,Basic Design Approved,-14.680522,-58.133586,N5O,Tangara da Serra, ,MT, ,Juba,6200,25.33,,,,,
+43,219,,Jubinha I,Basic Design Approved,-14.722444,-58.184978,N5O,Barra do Bugres, ,MT, ,Jubinha,11000,115.62,,,,,
+44,221,,Juruena,Inventoried,-13.401294,-59.007447,N5O,Sapezal,Campos de Jolio,MT,MT,Juruena (Trecho entre a foz do rio Ju0na e a ponte da rodovia MT-235),46000,1.94,,,,,
+45,223,,Jutuarama,Technical Feasibility Registered,-1.331111,-54.494722,N5O,Monte Alegre, ,PA, ,Maicuru,66000,5.09,,,,,
+46,228,29,Luis Eduardo Magalhees (Lajeado),Operational,-9.757222,-48.371389,SIM,Brejinho de Nazaré,,TO,,Tocantins,"902,500",703.95,45.63,1998,2001,12,2001
+46,228,30,Luis Eduardo Magalhees (Lajeado),Operational,-9.757222,-48.371389,SIM,Ipueiras,,TO,,Tocantins,"902,500",703.95,24.5,1998,2001,12,2001
+46,228,31,Luis Eduardo Magalhees (Lajeado),Operational,-9.757222,-48.371389,SIM,Lajeado,,TO,,Tocantins,"902,500",703.95,29.84,1998,2001,12,2001
+46,228,32,Luis Eduardo Magalhees (Lajeado),Operational,-9.757222,-48.371389,SIM,Miracema do Tocantins,,TO,,Tocantins,"902,500",703.95,74.47,1998,2001,12,2001
+46,228,33,Luis Eduardo Magalhees (Lajeado),Operational,-9.757222,-48.371389,SIM,Palmas,,TO,,Tocantins,"902,500",703.95,179.43,1998,2001,12,2001
+46,228,34,Luis Eduardo Magalhees (Lajeado),Operational,-9.757222,-48.371389,SIM,Porto Nacional,,TO,,Tocantins,"902,500",703.95,350.07,1998,2001,12,2001
+47,233,,Magessi,Inventoried,-13.576389,-55.264957,N5O,Santa Rita do Trivelato,Sorriso,MT,MT,Teles Pires,53000,60,,,,,
+48,236,,Manso,Operational,-14.874444,-55.785833,SIM,Chapada dos Guimarães,,MT,,Manso,"210,900",401.8,340.01,1988,2000,11,2000
+48,236,,Manso,Operational,-14.874444,-55.785833,SIM,Nova Brasilândia,,MT,,Manso,"210,900",401.8,61.79,1988,2000,11,2000
+49,237,,Marabs,Technical Feasibility Registered,-5.316667,-49.066667,N4O,Marabo, ,PA, ,Tocantins,2160000,1115.4,,,,,
+50,245,,Mocotd,Technical Feasibility Registered,-1.485833,-54.443611,N5O,Monte Alegre, ,PA, ,Maicuru,95000,26.17,,,,,
+51,259,,Novo Acordo,Inventoried,-9.973611,-47.639722,N4O,Rio Sono,Novo Acordo,TO,TO,do Sono,160000,76.33,,,,,
+52,264,,Paiague,Technical Feasibility Registered,-13.217778,-57.518611,N5O,Campo Novo do Parecis,Nova Maringd,MT,MT,do Sangue,35200,6.8,,,,,
+53,270,,Parand,Technical Feasibility Registered,-12.666449,-47.812442,N4O,Parana, ,TO, ,Parana,95000,115,,,,,
+54,274,,Parecis,Inventoried,-12.843611,-57.373889,N5O,Brasnorte,Nova Maringo,MT,MT,do Sangue,74500,201.6,,,,,
+55,279,,Pau D'Arco,Technical Feasibility Registered,-12.3775,-47.149722,N4O,Concei,Arraias,TO,TO,Palma,64000,92.5,,,,,
+56,287,37,Peixe Angical,Operational,-12.239083,-48.382369,SIM,Paranã,Sao Salvador do Tocantins,TO,,Tocantins,"498,750",318.45,186.23,2002,2006,6,2006
+56,287,38,Peixe Angical,Operational,-12.239083,-48.382369,SIM,Peixe,Sao Salvador do Tocantins,TO,,Tocantins,"498,750",318.45,24.46,2002,2006,6,2006
+56,287,39,Peixe Angical,Operational,-12.239083,-48.382369,SIM,São Salvador do Tocantins,Sao Salvador do Tocantins,TO,,Tocantins,"498,750",318.45,107.76,2002,2006,6,2006
+57,290,,Perdida 1,Technical Feasibility Registered,-9.235,-47.415556,N4O,Rio Sono,Centenerio,TO,TO,Perdida,24000,15.8,,,,,
+58,291,,Perdida 2,Technical Feasibility Registered,-9.346667,-47.865833,N4O,Rio Sono,Pedro Afonso,TO,TO,Perdida,48000,35.43,,,,,
+59,297,,Pitinga,Operational,-0.866389,-59.604722,N5O,Presidente Figueiredo, ,AM, ,Pitinga,24960,0,,,,,
+60,300,40,Ponte de Pedra,Operational,-17.610278,-54.826944,SIM,Itiquira,,MT,MS,Correntes,"176,100",15.62,7.32,2001,2004,7,2005
+61,304,,Porto da Serra I,Inventoried,1.087,-51.925,N5O,Ferreira Gomes, ,AP, ,Araguari,54000,0,,,,,
+62,324,,Rio Sono,Inventoried,-9.357222,-47.886944,N4O,Rio Sono, ,TO, ,do Sono,168000,33.6,,,,,
+63,327,,Roncador,Inventoried,-12.268056,-57.644167,N5O,Brasnorte,Nova Maringo,MT,MT,do Sangue,134000,289.2,,,,,
+64,328,41,Rondon II,Operational,-11.9975,-60.697222,N6O,Pimenta Bueno,,RO,,Comemoração,"73,500",75.87,75.87,2006,2009,7,2011
+65,335,,Salto das Nuvens,Basic Design Approved,-14.632222,-57.744167,N5O,Tangara da Serra, ,MT, ,Sepotuba,20000,0,,,,,
+66,344,,Samuel,Operational,-8.751647,-63.454364,SIM,Alto Paraíso,,RO,,Jamari,"216,750",679.51,23.59,1982,1988,7,1989
+66,344,,Samuel,Operational,-8.751647,-63.454364,SIM,Candeias do Jamari,,RO,,Jamari,"216,750",679.51,423.64,1982,1988,7,1989
+66,344,,Samuel,Operational,-8.751647,-63.454364,SIM,Cujubim,,RO,,Jamari,"216,750",679.51,2.03,1982,1988,7,1989
+66,344,,Samuel,Operational,-8.751647,-63.454364,SIM,Itapuã do Oeste,,RO,,Jamari,"216,750",679.51,230.26,1982,1988,7,1989
+67,350,,Santa Isabel,Approved,-6.133333,-48.333333,N4O,Ananos,Palestina do Para,TO,PA,Araguaia,1087000,0,,,,,
+68,,46,Santo Antônio,Operational,-8.801111,-63.949722,N6O,Porto Velho,,RO,,Madeira,"2,286,080",518.82,518.82,2008,2011,3,2012
+,,47,Santo Antônio do Jari,Operational,-0.6496,-52.5163,,Almeirim,,PA,,Jari,"373,400",31.7,17.99,2009,2014,9,2014
+,,48,Santo Antônio do Jari,Operational,-0.6496,-52.5163,,Laranjal do Jari,,AP,,Jari,"373,400",31.7,21.15,2009,2014,9,2014
+69,358,,Sao Domingos,Technical Feasibility Registered,-12.984444,-47.723889,N4O,Parana, ,TO, ,Parana,70000,50.9,,,,,
+70,365,,Sao Luiz do Tapajas,Technical Feasibility Registered,-4.56936,-56.785085,N5O,Itaituba, ,PA, ,Tapajus,6130,722.25,,,,,
+71,366,,Sao Manoel,Technical Feasibility Registered,-9.191389,-57.05,N5O,Paranata,Jacareacanga,MT,PA,Teles Pires,746000,53,,,,,
+72,371,49,São Salvador,Operational,-12.809825,-48.239303,SIM,Palmeirópolis,,v,,Tocantins,"243,200",99.66,44.51,2006,2008,8,2009
+72,371,50,São Salvador,Operational,-12.809825,-48.239303,SIM,Paranã,,TO,,Tocantins,"243,200",99.66,45.22,2006,2008,8,2009
+72,371,51,São Salvador,Operational,-12.809825,-48.239303,SIM,São Salvador do Tocantins,,TO,,Tocantins,"243,200",99.66,3.71,2006,2008,8,2009
+73,379,,Serra Quebrada,Technical Feasibility Accepted,-5.659167,-47.472778,N4O,Governador Edison Lob4o,Itaguatins,MA,TO,Tocantins,1328000,386,,,,,
+74,384,,Sinop,Technical Feasibility Registered,-11.269444,-55.451944,N5O,Itaiba,Cl0udia,MT,MT,Teles Pires,775000,329.6,,,,,
+75,389,,Tabajara,Technical Feasibility Registered,-8.904167,-62.172222,N6O,Machadinho D'Oeste, ,RO, ,Ji-Paranh,350000,128.8,,,,,
+76,390,,Taboa,Inventoried,-7.207778,-45.465278,N4O,Sambaoba, ,MA, ,das Balsas,98000,221,,,,,
+77,393,,Taquarizinho,Technical Feasibility Registered,-18.016667,-53.516667,N5O,Alto Araguaia,Alcinapolis,MT,MS,Taquari,11000,5.04,,,,,
+78,396,,Teles Pires,Technical Feasibility Accepted,-9.338807,-56.777096,N5O,Paranata,Jacareacanga,MT,PA,Teles Pires,329000,123.4,,,,,
+79,399,,Toricoejo,Technical Feasibility Registered,-15.251336,-53.081903,N5O,Barra do Gartas,Novo Sao Joaquim,MT,MT,das Mortes,76000,47.9,,,,,
+80,406,52,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Breu Branco,,PA,,Tocantins,"8,535,000","3,513.29",238.33,1975,1984,12,1984
+80,406,53,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Goianésia do Pará,,PA,,Tocantins,"8,535,000","3,513.29",546.18,1975,1984,12,1984
+80,406,54,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Itupiranga,,PA,,Tocantins,"8,535,000","3,513.29",154.9,1975,1984,12,1984
+80,406,55,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Jacundá,,PA,,Tocantins,"8,535,000","3,513.29",342.48,1975,1984,12,1984
+80,406,56,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Marabá,,PA,,Tocantins,"8,535,000","3,513.29",43.57,1975,1984,12,1984
+80,406,57,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Nova Ipixuna,,PA,,Tocantins,"8,535,000","3,513.29",124.91,1975,1984,12,1984
+80,406,58,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Novo Repartimento,,PA,,Tocantins,"8,535,000","3,513.29","1,441.30",1975,1984,12,1984
+80,406,59,Tucurue I e II,Operational,-3.832222,-49.652222,SIM,Tucuruí,,PA,,Tocantins,"8,535,000","3,513.29",621.62,1975,1984,12,1984
+81,407,,Tupiratins,Technical Feasibility Accepted,-8.183333,-48.166667,N4O,Tupiratins, ,TO, ,Tocantins,820000,370,,,,,
