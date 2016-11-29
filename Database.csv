@@ -1,0 +1,798 @@
+OBJECTID,ID_UC0,Name,Reserve Type,Class,gov_level,year_created,GID7,Polygon_quality,Organization_group_name,GID0,ADR6,Population,State,Municipality,CODTI21,Near_OpDam_ID,NEAR_DIST_OpDam_m,NEAR_FID_alldams,NEAR_DIST_alldams
+570,,Ivare I,Indigenous Reserve,Indigenous Reserve,Tribal,2/24/2010,,,Tikuna,366,Tabatinga,13023,AM,Santo Ant,12100,23,770460.3507,20,620660.6796
+423,,Ivare II,Indigenous Reserve,Indigenous Reserve,Tribal,3/18/1997,,,Tikuna,143,Tabatinga,2200,AM,Sao Paulo de Olivenaa,12200,23,760408.4927,20,615006.7651
+450,,Acapuri de Cima,Indigenous Reserve,Indigenous Reserve,Tribal,8/30/2004,,,Kokama,179,Manaus,101,AM,Fonte Boa,100,45,747542.8923,19,669075.9888
+406,,Acima,Indigenous Reserve,Indigenous Reserve,Tribal,4/19/1999,,,Apurina,126,Rio Branco,40,AM,LMbrea,200,23,218764.9574,20,94809.71838
+407,,Agua Preta/Inari,Indigenous Reserve,Indigenous Reserve,Tribal,7/17/2000,,,Apurina,127,Rio Branco,165,AM,Pauini,400,23,294682.127,20,145058.0318
+594,,Alto Rio Guamo,Indigenous Reserve,Indigenous Reserve,Tribal,7/29/1994,,,"Temb1, Timbira, Urubu Kaapor",402, ,922,PA,"Garrafao do Norte, Nova Esperan a do Piri , Paragominas, Santa Luzia do Parn",1000,51,346172.4588,73,319316.9282
+523,,Alto Rio Negro,Indigenous Reserve,Indigenous Reserve,Tribal,7/13/2000,,,"Arap0so, Baras na, Barr, Karapana, Suri7na, Wanana",300,Sao Gabriel da Cachoeira,13600,AM,"Japurs, Sao Gabriel da Cachoeira",1100,0,893584.6605,59,853596.729
+513,,Alto Rio Purus,Indigenous Reserve,Indigenous Reserve,Tribal,8/30/2002,,,"Kaxinawn, Kulina",283,Rio Branco,1508,AC,"Manoel Urbano, Santa Rosa do Purus",1200,23,545301.5849,20,386453.819
+342,,Alto Sepatini,Indigenous Reserve,Indigenous Reserve,Tribal,3/31/1999,,,Miranha,16,Rio Branco,93,AM,LMbrea,1300,23,213717.7754,20,81152.91415
+549,,Alto Tarauac,Indigenous Reserve,Indigenous Reserve,Tribal,9/29/2009,,,Isolados,330,Rio Branco,600,AC,"Feija, Jordao",1400,23,760495.7114,20,603416.6223
+595,,Alto Turia,Indigenous Reserve,Indigenous Reserve,Tribal,4/22/1983,,,Urubu Kaapor,403,Sao Luis,534,MA,"Araguana, Centro do Guilherme, Centro Novo do Maranhao, Maranhaozinho, Santa Luzia do Parux, Za Doca",1500,51,343535.0446,73,303387.778
+644,,Amanayp,Indigenous Reserve,Indigenous Reserve,Tribal,1/1/1989,,,Amanay,512,Marab,66,PA,Goianysia do Par(,1700,51,100141.4305,80,100128.7441
+650,,Amina,Indigenous Reserve,Indigenous Reserve,Tribal,9/8/2003,,,Tupaiu,518, ,0,PA,Itamarati,61300,3,100159.889,28,100171.4468
+480,,AnambP,Indigenous Reserve,Indigenous Reserve,Tribal,8/5/1994,,,Anambr,220,Marabr,120,PA,Moju,1800,51,109285.4066,80,109285.8436
+490,,Anan,Indigenous Reserve,Indigenous Reserve,Tribal,12/5/1995,,,Makuxi,241,Boa Vista,54,RR,Amajari,1900,0,673470.3034,59,559378.2826
+620,,Anaro,Indigenous Reserve,Indigenous Reserve,Tribal,12/21/2009,,,Wapixana,435,Boa Vista,52,RR,Amajari,51600,0,650987.3158,59,535267.4211
+529,,AndirP-Marau,Indigenous Reserve,Indigenous Reserve,Tribal,5/7/1987,,,Satere-Mawe,306,Parintins,5825,"AM, PA","Aveiro, Barreirinha, Itaituba, Mau s, Parintins",2000,3,261047.6025,70,26107.39102
+371,,Aningal,Indigenous Reserve,Indigenous Reserve,Tribal,12/1/1995,,,Makuxi,65,Boa Vista,153,RR,Amajari,2100,0,627125.68,59,513415.1473
+651,,Aningalzinho,Indigenous Reserve,Indigenous Reserve,Tribal,7/4/2008,,,Tupaiu,519,Manaus,0,PA,Santar,61200,3,105158.9593,28,105169.5456
+372,,Anta,Indigenous Reserve,Indigenous Reserve,Tribal,11/20/1995,,,"Makuxi, Wapixana",66,Boa Vista,114,RR,Alto Alegre,2200,0,608216.499,59,493888.3964
+373,,Apiaka/Kayabi,Indigenous Reserve,Indigenous Reserve,Tribal,11/24/1988,,,Apiak,67,Ju,204,MT,Juara,2300,4,220622.6042,25,80724.17994
+738,,Apinayp II,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,ApinayU,612,AraguaUna,0,TO,Tocantinapolis e Nazar ,67300,5,32935.46529,30,32941.46861
+586,,ApinayU,Indigenous Reserve,Indigenous Reserve,Tribal,6/27/1989,,,Apinay,389,Aragua,964,TO,"Cachoeirinha, Maurillndia do Tocantins, Sao Bento do Tocantins, Tocantinapolis",2400,5,23456.10557,30,23430.33147
+733,,Apipica,Indigenous Reserve,Indigenous Reserve,Tribal,10/26/2004,,,Mura,602,Manaus,68,AM,Careiro da Vdrzea,2500,0,158713.0511,6,158704.2647
+768,,Apurina do Igarap  Mucuim,Indigenous Reserve,Indigenous Reserve,Tribal,7/27/2009,,,Apurina,687,Manaus,58,AM,LMbrea,52600,23,224242.9443,19,109669.193
+607,,Apurina do Igarapg Sao Joao,Indigenous Reserve,Indigenous Reserve,Tribal,6/18/2009,,,Apurina,421,Manaus,58,AM,Tapaun,2700,41,341598.3676,66,341604.0775
+462,,Apurina Igarap,Indigenous Reserve,Indigenous Reserve,Tribal,4/16/1996,,,Apurina,193,Manaus,120,AM,Tapaun,2800,41,321242.5855,66,321247.668
+675,,Apurina Igarap  Tauamirim,Indigenous Reserve,Indigenous Reserve,Tribal,11/11/2003,,,Apurina,543,Manaus,120,AM,Tapaun,2800,41,362356.132,66,362361.6326
+530,,Apurina Km 124 BR-317,Indigenous Reserve,Indigenous Reserve,Tribal,12/14/1999,,,Apurina,307,Rio Branco,160,AM,"Boca do Acre, Librea",2900,23,254162.2319,20,106422.3697
+580,,Apyterewa,Indigenous Reserve,Indigenous Reserve,Tribal,10/14/2008,,,Parakana,379,Altamira,219,PA,Sao Falix do Xingu,3000,51,251697.4463,10,233174.2295
+374,,Ara0,Indigenous Reserve,Indigenous Reserve,Tribal,11/28/1995,,,"Makuxi, Wapixana",68,Boa Vista,308,RR,Amajari,3100,0,626813.8726,59,511735.8338
+370,,Arara,Indigenous Reserve,Indigenous Reserve,Tribal,6/22/1994,,,Arara,64,Altamira,135,PA,"Altamira, Brasil Novo, Medicil ndia, Uruarr",3200,3,138369.6228,10,115028.6685
+734,,Arara da Volta Grande do Xingu,Indigenous Reserve,Indigenous Reserve,Tribal,6/30/2008,,,Arara,603,Altamira,80,PA,Senador JosU Porf,60000,51,214125.0554,10,41514.95157
+568,,Arara do Igarap,Indigenous Reserve,Indigenous Reserve,Tribal,11/29/2006,,,Arara,363,Rio Branco,170,AC,"Porto Walter, Tarauacs",3400,23,826388.8924,20,660671.9637
+760,,Arara do Rio Amonia,Indigenous Reserve,Indigenous Reserve,Tribal,9/8/2009,,,Arara,673,Rio Branco,278,AC,Marechal Thaumaturgo,51800,23,886930.4698,20,725884.0999
+375,,Arara do Rio Branco,Indigenous Reserve,Indigenous Reserve,Tribal,2/26/1998,,,Arara,69,Ju,150,MT,Aripuana,3300,4,24450.80182,29,24463.6208
+376,,Arariboia,Indigenous Reserve,Indigenous Reserve,Tribal,12/12/1996,,,Guaj,70,Imperatriz,4174,MA,"Amarante do Maranhao, Arame, Bom Jesus das Selvas, Buriticupu, Graja",3600,5,163469.6897,73,91114.91273
+631,,Arary,Indigenous Reserve,Indigenous Reserve,Tribal,8/19/2009,,,Mura,464,Manaus,221,AM,"Borba, Novo Aripuana",3700,0,304892.0186,6,304885.4203
+491,,ArawetU IgarapF Ipixuna,Indigenous Reserve,Indigenous Reserve,Tribal,5/20/1997,,,Arawetr,243,Altamira,247,PA,"Altamira, Sao F,lix do Xingu, Senador Josu Porf",3800,3,238474.623,10,143566.7802
+331,,Areoes,Indigenous Reserve,Indigenous Reserve,Tribal,10/30/1997,,,Xavante,1,Nova Xavantina,832,MT,Agua Boa,3900,34,372634.7404,79,109617.5024
+690,,Areoes,Indigenous Reserve,Indigenous Reserve,Tribal,6/3/2004,,,Xavante,558,Nova Xavantina,832,MT,"Agua Boa, Cocalinho, Nova Nazaro",3900,34,390050.983,79,133733.8078
+362,,Aripuana,Indigenous Reserve,Indigenous Reserve,Tribal,1/25/1994,,,Cinta Larga,52,Cacoal,149,MT,"Aripuana, Ju na",4200,4,19091.38011,29,19104.83113
+635,,Ariramba,Indigenous Reserve,Indigenous Reserve,Tribal,9/26/2006,,,Mura,468,Manaus,73,AM,Manicoro,4300,41,311338.863,75,299465.4781
+572,,Awa,Indigenous Reserve,Indigenous Reserve,Tribal,9/28/2009,,,GuajL,369,Sao Lu s,198,MA,"Centro Novo do Maranhao, Governador Newton Bello, Sao Joao do Caro, Zt Doca",4800,51,340848.0956,73,247189.3427
+599,,Ba0,Indigenous Reserve,Indigenous Reserve,Tribal,10/14/2008,,,MenkrangnotU,407,Col,65,PA,Altamira,6100,3,403375.7854,15,235388.4776
+514,,Bacurizinho,Indigenous Reserve,Indigenous Reserve,Tribal,2/29/1984,,,Guajajara,286,Sao Luis,1976,MA,Grajaj,4900,5,179806.0902,76,136187.6904
+626,,Bacurizinho,Indigenous Reserve,Indigenous Reserve,Tribal,6/30/2008,,,Guajajara,448,Sao Luns,1976,MA,Grajaj,4900,5,169384.0654,76,125775.2554
+364,,Badjonkore,Indigenous Reserve,Indigenous Reserve,Tribal,2/10/2004,,,Kayap,55,Reden,82,PA,"Cumaru do Norte, Sao F",5000,28,383309.5016,46,383346.1279
+485,,Baia do Guatl,Indigenous Reserve,Indigenous Reserve,Tribal,5/22/2009,,,Guat,226,Cuiab,0,MT,"Barao de Melgaao, Pocont",5100,19,173413.6641,36,173419.4192
+674,,Baixo Grande,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Tor,542,Porto Velho,0,AM,HumaitV,53100,41,331886.727,75,296818.7864
+697,,Baixo Rio Negro,Indigenous Reserve,Indigenous Reserve,Tribal,1/12/2007,,, ,565,Manaus,2515,AM,Barcelos,62100,0,453227.3599,59,415018.2207
+745,,Baixo Rio Negro II,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,Maku e Tukano,619,Sao Gabriel da Cachoeira,0,AM,Santa Isabel do Rio Negro,67400,0,652005.5121,59,625409.4142
+655,,Baixo TapajAs,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,"Munduruku, Tupinambt, Cara Preta",523,Itaituba,0,PA,Santarum,52100,3,95132.54098,28,95140.15763
+656,,Baixo TapajAs II,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,"Munduruku, Maytapu, Cara Preta",524,Itaituba,0,PA,Aveiro,52300,3,119076.5063,28,119079.2186
+744,,Baixo TapajAs/Arapiuns,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,Munduruku e Arapiun,618,Itaituba,0,PA,Santarum,67200,3,104583.2528,28,104588.4195
+479,,Bakairi,Indigenous Reserve,Indigenous Reserve,Tribal,5/18/1987,,,Bakairi,219,Cuiab,469,MT,"Paranatinga, Planalto da Serra",5200,34,122289.0093,47,88567.13038
+772,,Balaio,Indigenous Reserve,Indigenous Reserve,Tribal,12/21/2009,,,"Desana, Taridna, Tukano",692,Sao Gabriel da Cachoeira,350,AM,Sao Gabriel da Cachoeira,5300,0,805160.9171,59,758356.0419
+765,,Banaw ,Indigenous Reserve,Indigenous Reserve,Tribal,9/15/2005,,,Banawr,680,Rio Branco,100,AM,"Canutama, Librea, Tapauo",5400,45,222871.5518,19,171126.9937
+474,,Barata Livramento,Indigenous Reserve,Indigenous Reserve,Tribal,6/3/2002,,,"Makuxi, Wapixana",214,Boa Vista,548,RR,Alto Alegre,5600,0,595847.5677,59,480971.6719
+428,,Barreira da Missao,Indigenous Reserve,Indigenous Reserve,Tribal,10/29/1991,,,Kamb,148,Manaus,480,AM,Tefb,5900,0,590952.3243,19,575827.9105
+735,,Barreirinha,Indigenous Reserve,Indigenous Reserve,Tribal,10/14/2008,,,Amanay,604,Marab,73,PA,Paragominas,58800,51,146876.9743,80,146867.5487
+795,,Barro Alto,Indigenous Reserve,Indigenous Reserve,Tribal,12/31/2007,,,Kokama,731,Tabatinga,0,AM,Tonantins,52200,45,776613.1458,19,678417.4024
+515,,Batelao,Indigenous Reserve,Indigenous Reserve,Tribal,10/18/2007,,,Kayabi,287,Cuiabi,0,MT,"Juara, Nova Canaa do Norte, Tabapora",52400,4,299459.8085,27,71018.77803
+466,,Batovi,Indigenous Reserve,Indigenous Reserve,Tribal,3/22/1999,,,Wauru,197,Xingu,236,MT,Ga,6000,34,284621.3839,47,152893.6053
+736,,Betania,Indigenous Reserve,Indigenous Reserve,Tribal,3/19/1996,,,Tikuna,605,Manaus,2085,AM,Amatur,6200,45,740948.2138,20,630306.9531
+349,,Boa Vista - AM,Indigenous Reserve,Indigenous Reserve,Tribal,3/13/2002,,,Mura,23,Manaus,38,AM,Careiro,58500,0,145293.371,6,145284.7014
+639,,Boa Vista - AM,Indigenous Reserve,Indigenous Reserve,Tribal,2/10/2003,,,Mura,475,Manaus,38,AM,Careiro da V rzea,58500,0,143806.204,6,143797.5341
+418,,Boca do Acre,Indigenous Reserve,Indigenous Reserve,Tribal,6/15/1999,,,Apurina,138,Rio Branco,121,AM,"Boca do Acre, Lrbrea",6400,23,237377.6272,20,78688.99334
+770,,Bom Intento,Indigenous Reserve,Indigenous Reserve,Tribal,11/5/2004,,,Tikuna,690,Tabatinga,120,AM,Benjamin Constant,6500,23,798232.9385,20,643386.2443
+335,,Bom Jesus,Indigenous Reserve,Indigenous Reserve,Tribal,12/2/1996,,,Makuxi,7,Boa Vista,200,RR,Bonfim,6600,0,592617.5283,59,475886.5587
+587,,Boqueirao,Indigenous Reserve,Indigenous Reserve,Tribal,2/28/2008,,,"Makuxi, Wapixana",390,Boa Vista,283,RR,Alto Alegre,6700,0,597263.7116,59,483742.961
+647,,Borari de Alter do Chao,Indigenous Reserve,Indigenous Reserve,Tribal,12/4/2009,,,Borari,515,Itaituba,0,PA,Santar,51900,3,74202.15664,28,74214.80012
+788,,Braganea-Marituba,Indigenous Reserve,Indigenous Reserve,Tribal,10/29/2009,,,Munduruku,723,Itaituba,0,PA,Belterra,62500,3,73763.78309,28,73768.45899
+742,,Brinco das Mo as,Indigenous Reserve,Indigenous Reserve,Tribal,9/4/2003,,, ,616,Itaituba,0,PA,Santarbm,61900,3,126446.0046,28,126455.8453
+610,,Cabeceira do Rio Acre,Indigenous Reserve,Indigenous Reserve,Tribal,9/15/1999,,,Jaminawa,424,Rio Branco,161,AC,"Assis Brasil, Sena Madureira",7300,23,574863.2078,20,448381.1331
+421,,Cacau do Tarauaca,Indigenous Reserve,Indigenous Reserve,Tribal,8/15/1997,,,Kulina,141,Rio Branco,230,AM,Envira,7400,23,597864.5547,20,425469.4357
+616,,Cachoeira Seca,Indigenous Reserve,Indigenous Reserve,Tribal,6/30/2009,,,Arara,430,Altamira,56,PA,"Altamira, Placas, UruarS",7600,3,140873.9809,28,140863.145
+792,,Cacique Fontoura,Indigenous Reserve,Indigenous Reserve,Tribal,3/31/2010,,,Karaj,728,Sao F,489,MT,"Luciara, Sao Frlix do Araguaia",58700,36,270948.9883,34,243463.5474
+717,,Caiapuca,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Jaminawa,585,Rio Branco,72,AM,Boca do Acre,55800,23,368416.9428,20,205681.1287
+532,,Caititu,Indigenous Reserve,Indigenous Reserve,Tribal,7/29/1988,,,Apurina,309,Rio Branco,220,AM,LMbrea,8100,45,88842.93108,19,84331.10047
+492,,Cajueiro,Indigenous Reserve,Indigenous Reserve,Tribal,12/4/1995,,,Makuxi,246,Boa Vista,90,RR,Amajari,8200,0,656370.35,59,541915.3983
+544,,Cajuhiri Atravessado,Indigenous Reserve,Indigenous Reserve,Tribal,8/15/2008,,,Kamb,321,Manaus,49,AM,Coari,8300,0,481379.5537,6,481382.1049
+521,,Camadeni,Indigenous Reserve,Indigenous Reserve,Tribal,1/7/2000,,,Jamamadi,298,Rio Branco,68,AM,Pauini,8400,23,318579.0963,20,174745.5388
+533,,Camicua,Indigenous Reserve,Indigenous Reserve,Tribal,11/24/1995,,,Apurina,310,Rio Branco,265,AM,Boca do Acre,8500,23,299388.8554,20,129969.2998
+463,,Campinas/Katukina,Indigenous Reserve,Indigenous Reserve,Tribal,6/21/1999,,,Katukina,194,Rio Branco,175,AC,"Cruzeiro do Sul, Tarauacm",8600,23,826574.6792,20,656510.3713
+403,,Cana Brava/Guajajara,Indigenous Reserve,Indigenous Reserve,Tribal,12/19/1996,,,Guajajara,122,Barra do Corda,4822,MA,"Barra do Corda, Grajae, Jenipapo dos Vieiras",8700,5,219863.0379,76,142543.9899
+564,,Canauanim,Indigenous Reserve,Indigenous Reserve,Tribal,10/11/2004,,,"Makuxi, Wapixana",355,Boa Vista,287,RR,Cantx,8800,0,525248.5412,59,409024.2147
+781,,Canoana,Indigenous Reserve,Indigenous Reserve,Tribal,10/27/2009,,,Javap,710,Gurupi,0,TO,Formoso do Araguaia,70300,36,156769.9175,56,156815.6248
+665,,Capivara,Indigenous Reserve,Indigenous Reserve,Tribal,6/24/2008,,,Mura,533,Manaus,154,AM,Autazes,9000,0,184463.2827,6,184454.8199
+581,,Capoto/Jarina,Indigenous Reserve,Indigenous Reserve,Tribal,9/23/1999,,,Mentuktire,380,Col,556,MT,"Peixoto de Azevedo, Sao Josc do Xingu",9200,28,479664.2284,74,232646.7509
+573,,Caru,Indigenous Reserve,Indigenous Reserve,Tribal,4/22/1983,,,Guajajara,370,Barra do Corda,136,MA,Bom Jardim,9700,5,320768.0053,73,227261.1395
+411,,Catipari/Mamoria,Indigenous Reserve,Indigenous Reserve,Tribal,1/14/2000,,,Apurina,131,Rio Branco,120,AM,Pauini,9800,23,275760.3458,20,130977.6337
+596,,Cayabi,Indigenous Reserve,Indigenous Reserve,Tribal,12/31/2007,,,"Apiake/Koyabi, Kayabi, Munduruku",404,Col,297,"MT, PA","ApiacAs, Jacareacanga",22900,4,220107.9221,71,1351.219639
+598,,Cayabi,Indigenous Reserve,Indigenous Reserve,Tribal,12/12/1983,,,"Apiake/Koyabi, Kayabi, Munduruku",406,Col0der,297,PA,Jacareacanga,22900,4,258375.3967,32,38075.97496
+561,,Chao Preto,Indigenous Reserve,Indigenous Reserve,Tribal,5/22/2002,,,Xavante,352,Nova Xavantina,56,MT,Campinepolis,10000,34,264293.1967,79,66698.75723
+746,,Chiquitano de Baia Grande,Indigenous Reserve,Indigenous Reserve,Tribal,8/1/2005,,,Xiquitano,620,Vilhena,58,MT,Pontes e Lacerda,24600,17,64225.9625,33,64228.24869
+461,,Coata-Laranjal,Indigenous Reserve,Indigenous Reserve,Tribal,10/20/2004,,,Munduruku,192,Manaus,1768,AM,Borba,10100,0,228550.9136,37,191518.7599
+648,,Cobra Grande,Indigenous Reserve,Indigenous Reserve,Tribal,10/29/2008,,,Arapiun,516,Itaituba,0,PA,Santarnm,59400,3,106847.5965,11,105043.5807
+698,,Cu6 CuT/ Marabitanas,Indigenous Reserve,Indigenous Reserve,Tribal,6/11/2010,,,Bar,566,Sao Gabriel da Cachoeira,0,AM,Sao Gabriel da Cachoeira,59600,0,872469.2664,59,827678.1471
+436,,Cuia,Indigenous Reserve,Indigenous Reserve,Tribal,6/3/1997,,,Mura,156,Manaus,75,AM,Autazes,10600,0,176178.4863,6,176169.2129
+419,,Cuiu-Cuiu,Indigenous Reserve,Indigenous Reserve,Tribal,6/16/2004,,,Miranha,139,Manaus,367,AM,Maraa,10700,0,603892.2377,6,603898.6253
+582,,Cunha-Sapucaia,Indigenous Reserve,Indigenous Reserve,Tribal,2/17/2010,,,Mura,381,Manaus,564,AM,"Autazes, Borba",10800,0,262654.6858,6,262648.6757
+550,,Deni,Indigenous Reserve,Indigenous Reserve,Tribal,7/19/2007,,,Deni,331,Manaus,666,AM,"Itamarati, L",10900,23,327821.963,20,193402.3309
+591,,Diahui,Indigenous Reserve,Indigenous Reserve,Tribal,6/9/2006,,,Diahui,399,Porto Velho,17,AM,Humait,11000,41,141178.396,75,80425.53789
+680,,Enawen,Indigenous Reserve,Indigenous Reserve,Tribal,12/12/2007,,,Enauwens-NawS,548,Ju,300,MT,"Comodoro, JuSna e Sapezal",11200,40,186986.9992,22,113854.9471
+730,,EnawenU-NawU,Indigenous Reserve,Indigenous Reserve,Tribal,7/3/1998,,,Enauwend-Nawi,599,Ju2na,300,MT,"Comodoro, Juina, Sapezal",11200,40,104797.0659,22,34584.30229
+731,,EnawenU-NawU,Indigenous Reserve,Indigenous Reserve,Tribal,7/3/1998,,,Enauwenû-Naw酸,600,Ju2na,300,MT,"Comodoro, Ju酸na, Sapezal",11200,40,107720.8898,64,107709.1579
+755,,Erikpatsl,Indigenous Reserve,Indigenous Reserve,Tribal,11/18/1987,,,Erikbakts,652,Ju,550,MT,Brasnorte,11400,4,149198.5204,25,434.1845179
+753,,Escondido,Indigenous Reserve,Indigenous Reserve,Tribal,7/21/1999,,,Erikbakts,650,Ju,45,MT,Cotriguasu,11500,4,87430.71825,29,87421.97806
+750,,Escrivao,Indigenous Reserve,Indigenous Reserve,Tribal,10/24/2008,,,"Maytapu, Cara Preta/Munduruku",639,Itaituba,0,PA,Aveiro,68000,3,136618.0652,28,136619.1468
+634,,Esp0rito Santo,Indigenous Reserve,Indigenous Reserve,Tribal,9/13/2006,,,Tikuna,467,Manaus,121,AM,Jutan,11600,45,739713.7627,19,654865.9863
+693,,Esta0ao Parecis,Indigenous Reserve,Indigenous Reserve,Tribal,8/10/2009,,,Paresi,561,Tangar  da Serra,34,MT,"Diamantino, Nortelandia",11800,26,133032.041,8,80845.22058
+486,,Estivadinho,Indigenous Reserve,Indigenous Reserve,Tribal,10/19/1994,,,Paresi,229,Tangaro da Serra,13,MT,Tangar,11900,24,59867.36608,43,47583.04671
+422,,Estrela da Paz,Indigenous Reserve,Indigenous Reserve,Tribal,7/31/1997,,,Tikuna,142,Manaus,333,AM,Jutan,12000,45,724666.3674,19,643827.4793
+689,,Eterairebere,Indigenous Reserve,Indigenous Reserve,Tribal,5/19/2004,,,Xavante,557,Nova Xavantina,0,MT,"Campinepolis, Novo Sao Joaquim, Santo Ant",64100,34,300726.2055,79,61483.79077
+487,,Figueiras,Indigenous Reserve,Indigenous Reserve,Tribal,3/13/1996,,,Paresi,230,Tangard da Serra,13,MT,"Barra do Bugres, Tangar  da Serra",12800,20,45089.20571,43,44758.44211
+459,,Fortaleza do Castanho,Indigenous Reserve,Indigenous Reserve,Tribal,9/25/2003,,,Mura,190,Manaus,75,AM,Manaquiri,12900,0,230450.8488,6,230447.3323
+548,,Fortaleza do Pataun,Indigenous Reserve,Indigenous Reserve,Tribal,9/21/2006,,,Apurina,325,Manaus,11,AM,Manacapuru,13000,0,194491.9621,6,194491.4628
+340,,Funil,Indigenous Reserve,Indigenous Reserve,Tribal,1/5/1994,,,Xerente,14,Gurupi,190,TO,Tocantenia,13200,28,9098.407047,46,9053.398352
+377,,Galibi,Indigenous Reserve,Indigenous Reserve,Tribal,12/12/1983,,,Galibi,76,Oiapoque,168,AP,Oiapoque,13300,2,335637.038,13,231468.04
+712,,Garaperi/Lago da Vitoria,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Apurina,580,Rio Branco,130,AM,Pauini,19800,23,305433.2824,20,133810.9394
+534,,Gaviao,Indigenous Reserve,Indigenous Reserve,Tribal,8/9/2002,,,Mura,311,Manaus,77,AM,Careiro da V,13400,0,160594.7215,6,160586.5694
+478,,Geralda Toco Preto,Indigenous Reserve,Indigenous Reserve,Tribal,12/12/1996,,,Timbira,218,Barra do Corda,118,MA,"Arame, Itaipava do Grajaa",13500,5,254094.6746,73,200631.2423
+622,,Governador,Indigenous Reserve,Indigenous Reserve,Tribal,4/22/1983,,,kanela,440,Imperatriz,655,MA,Amarante do Maranhao,13600,5,139460.9816,73,82284.42111
+642,,Governador,Indigenous Reserve,Indigenous Reserve,Tribal,8/27/2009,,,kanela,510,Imperatriz,655,MA,Amarante do Maranhao,13600,5,154839.7076,73,101765.0467
+520,,Guajaha,Indigenous Reserve,Indigenous Reserve,Tribal,6/19/2000,,,Apurina,297,Rio Branco,135,AM,Pauini,13800,23,288315.4117,20,133251.2799
+705,,Guanabara,Indigenous Reserve,Indigenous Reserve,Tribal,2/19/2004,,,Kokama Tikuna,573,Tabatinga,0,AM,Benjamin Constant,52800,23,769363.7834,20,613391.5751
+663,,Guapenu,Indigenous Reserve,Indigenous Reserve,Tribal,6/24/2008,,,Mura,531,Manaus,285,AM,Autazes,13900,0,176831.0007,6,176821.6482
+737,,Guat0,Indigenous Reserve,Indigenous Reserve,Tribal,3/12/2004,,,Guato,606,Campo Grande,382,MS,CorumbG,15000,20,282285.4646,38,282276.7747
+558,,Hi Merima,Indigenous Reserve,Indigenous Reserve,Tribal,1/17/2008,,,Hi Merima,348,Rio Branco,80,AM,"LMbrea, Tapaud",15200,23,229473.6518,19,126271.1247
+685,,Hu'uhi,Indigenous Reserve,Indigenous Reserve,Tribal,5/20/2004,,,Xavante,553,Nova Xavantina,0,MT,Paranatinga,64400,34,257908.0923,79,123178.8
+677,,Igarapo Lourdes,Indigenous Reserve,Indigenous Reserve,Tribal,1/15/2003,,,Gaviao,545,Cacoal,500,RO,Ji-Paran2,16200,40,210852.5557,75,165221.841
+708,,Igarapp Preto/Pauana,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Kanamari,576,Rio Branco,120,AM,Carauari,59900,23,507987.4438,20,384151.3368
+763,,Igarapp Taboca do Alto Tarauac,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,Isolados,677,Rio Branco,0,AC,Jordao,67600,23,785024.0152,20,627434.5219
+673,,Igarapp-A,Indigenous Reserve,Indigenous Reserve,Tribal,1/1/1997,,,Mura,541,Manaus,266,AM,Borba,16400,0,361099.2635,6,361095.0852
+669,,IgarapT Paiol,Indigenous Reserve,Indigenous Reserve,Tribal,6/21/2004,,,Apurina,537,Manaus,34,AM,Manaquiri,52900,0,242279.1429,6,242275.8067
+629,,IgarapU Capana,Indigenous Reserve,Indigenous Reserve,Tribal,11/10/2004,,,Jamamadi,458,Rio Branco,40,AM,Boca do Acre,15600,23,351292.2882,20,184673.2047
+467,,IgarapU do Caucho,Indigenous Reserve,Indigenous Reserve,Tribal,6/25/1998,,,Kaxinawn,198,Rio Branco,320,AC,"Feijn, Tarauace",15700,23,657793.6206,20,489103.5026
+433,,IgarapU Grande,Indigenous Reserve,Indigenous Reserve,Tribal,10/19/2004,,,Kamb,153,Manaus,42,AM,Alvaraes,15800,0,615865.85,19,596878.0468
+367,,IgarapU Lage,Indigenous Reserve,Indigenous Reserve,Tribal,10/9/1981,,,Pakaanova,59,Guajar,314,RO,"Guajaro-Mirim, Nova Mamorr",16100,23,121549.9809,39,121548.1351
+732,,IgarapU Lourdes,Indigenous Reserve,Indigenous Reserve,Tribal,8/30/2002,,,Gaviao,601,Cacoal,500,RO,Ji-ParanN,16200,40,155971.8319,75,146120.3612
+368,,IgarapU Ribeirao,Indigenous Reserve,Indigenous Reserve,Tribal,10/9/1981,,,Pakaanova,60,GuajarU-Mirim,193,RO,Nova Mamorr,16300,23,97727.53143,39,97727.93711
+684,,Ikpeng,Indigenous Reserve,Indigenous Reserve,Tribal,8/1/2007,,,Ikpeng,552,Xingu,0,MT,Ga,65000,34,317597.4407,47,170135.7107
+464,,Ilha do Camaleao,Indigenous Reserve,Indigenous Reserve,Tribal,4/2/1997,,,Tikuna,195,Manaus,120,AM,Anama,16600,0,295916.8676,6,295916.911
+345,,Inauini/Teuini,Indigenous Reserve,Indigenous Reserve,Tribal,6/14/2000,,,Jamamadi,19,Rio Branco,460,AM,"Boca do Acre, Pauini",16900,23,337114.0923,20,164832.2117
+551,,Inawebohona,Indigenous Reserve,Indigenous Reserve,Tribal,10/2/2009,,,Av,333,Gurupi,97,TO,"Lagoa da Confusao, Pium",17000,28,180154.3156,34,163323.0374
+346,,Ipixuna,Indigenous Reserve,Indigenous Reserve,Tribal,8/24/2001,,,Diahui,20,Rio Branco,54,AM,Humait,17200,41,206472.883,75,188436.9501
+715,,Iquirema,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Jamamadi,583,Rio Branco,66,AM,Boca do Acre,61700,23,276279.3263,20,106349.4614
+603,,Irantxe,Indigenous Reserve,Indigenous Reserve,Tribal,8/4/2008,,,Irantxe,417,Tangarn da Serra,250,MT,Brasnorte,17300,24,196574.7732,54,1393.76916
+604,,Irantxe,Indigenous Reserve,Indigenous Reserve,Tribal,4/23/1990,,,Irantxe,418,Tangare da Serra,250,MT,Brasnorte,17300,24,196574.7732,54,51650.08076
+687,,Iso0'p,Indigenous Reserve,Indigenous Reserve,Tribal,5/24/2005,,,Xavante,555,Campinepolis,0,MT,"Agua Boa, Campin",64200,34,312943.5516,79,117576.6778
+540,,Itaitinga,Indigenous Reserve,Indigenous Reserve,Tribal,12/5/2003,,,Mura,317,Manaus,25,AM,Autazes,17500,0,183791.9643,6,183782.7083
+493,,Jabuti,Indigenous Reserve,Indigenous Reserve,Tribal,9/19/2002,,,"Makuxi, Wapixana",248,Boa Vista,147,RR,Bonfim,17800,0,567627.8535,59,450730.9321
+559,,Jacamim,Indigenous Reserve,Indigenous Reserve,Tribal,10/6/2006,,,"Jaricuna, Makuxi, Wapixana",349,Boa Vista,255,RR,"Bonfim, Caracara,",17900,0,401558.5772,59,284617.6226
+624,,Jacarepba/Katauixi,Indigenous Reserve,Indigenous Reserve,Tribal,7/9/2007,,,Indios Isolados,442,Porto Velho,0,AM,"Canutama, Labrea",65900,45,26156.95369,68,26168.15222
+716,,Jamamadi do Lourdes,Indigenous Reserve,Indigenous Reserve,Tribal,12/2/2008,,,"Apurina, Jamamadi",584,Manaus,0,AM,Boca do Acre,61100,23,316832.5639,20,147869.7994
+363,,Jaminaua/Envira,Indigenous Reserve,Indigenous Reserve,Tribal,8/5/2003,,,Kulina,54,Rio Branco,92,AC,Feijn,18300,23,680051.7117,20,522147.1682
+722,,Jaminawa Arara do Rio Bagn,Indigenous Reserve,Indigenous Reserve,Tribal,9/20/2001,,,"Arara, Jaminawa",590,Rio Branco,165,AC,Marechal Thaumaturgo,18400,23,830979.5063,20,666933.5116
+472,,Jaminawa Arara do Rio Bagr,Indigenous Reserve,Indigenous Reserve,Tribal,9/8/1999,,,"Arara, Jaminawa",206,Rio Branco,165,AC,"Jordao, Marechal Thaumaturgo",18400,23,808149.5403,20,644669.2175
+703,,Jaminawa da Colocarao Sao Paulino,Indigenous Reserve,Indigenous Reserve,Tribal,6/30/2004,,,Jaminawa,571,Rio Branco,46,AM,Boca do Acre,52000,23,426973.6373,20,263012.5527
+720,,Jaminawa do Guajare,Indigenous Reserve,Indigenous Reserve,Tribal,7/15/2003,,,Jaminawa,588,Rio Branco,0,AC,Rodrigues Alves,59700,23,534857.5314,20,396555.8702
+355,,"Jaminawa do Igarap, Preto",Indigenous Reserve,Indigenous Reserve,Tribal,4/22/1999,,,Jaminawa,37,Rio Branco,160,AC,Rodrigues Alves,18500,23,900040.1311,20,731850.4641
+719,,Jaminawa do Rio Caetr,Indigenous Reserve,Indigenous Reserve,Tribal,3/28/2008,,,Jaminawa,587,Rio Branco,103,AC,Sena Madureira,60800,23,519457.9785,20,362524.2037
+754,,Japuira,Indigenous Reserve,Indigenous Reserve,Tribal,6/6/1994,,,Erikbakts,651,Ju,640,MT,Juara,18600,4,122889.4979,25,0
+539,,Jaquiri,Indigenous Reserve,Indigenous Reserve,Tribal,11/20/1995,,,Kamb,316,Manaus,75,AM,Uarini,18700,0,611894.1648,19,611719.3893
+791,,Jarawara/Jamamadi/Kanamati,Indigenous Reserve,Indigenous Reserve,Tribal,7/22/2002,,,"Jamamadi, Jarawara, Kanamanti",727,Rio Branco,400,AM,"LMbrea, Tapaua",19000,45,206896.0276,19,125820.123
+456,,Jarudore,Indigenous Reserve,Indigenous Reserve,Tribal,8/20/1958,,,Bororo,187,Rondonwpolis,0,MT,Poxoroo,19100,19,108236.073,36,108233.6822
+347,,Jatuarana,Indigenous Reserve,Indigenous Reserve,Tribal,4/17/2003,,,Apurina,21,Manaus,45,AM,Manacapuru,19200,0,202175.3777,6,202175.7026
+660,,Jauary,Indigenous Reserve,Indigenous Reserve,Tribal,6/24/2008,,,Mura,528,Manaus,112,AM,Autazes,19300,0,163728.0647,6,163718.316
+615,,Juininha,Indigenous Reserve,Indigenous Reserve,Tribal,5/3/1994,,,Paresi,429,Tangart da Serra,49,MT,Conquista D'Oeste,19500,17,52851.28569,33,52860.55828
+525,,Juma,Indigenous Reserve,Indigenous Reserve,Tribal,9/28/2006,,,Juma,302,Rio Branco,8,AM,Canutama,19600,45,150655.9003,68,150657.9228
+378,,Jumina,Indigenous Reserve,Indigenous Reserve,Tribal,3/20/1995,,,"Galibi, Karipuna",82,Oiapoque,129,AP,Oiapoque,19700,2,331765.0594,13,227647.9555
+646,,Juruna do Km 17,Indigenous Reserve,Indigenous Reserve,Tribal,10/16/2003,,,Juruna,514,Altamira,34,PA,Vituria do Xingu,62000,3,246172.0614,10,25952.10037
+360,,Kampa do Igarapd Primavera,Indigenous Reserve,Indigenous Reserve,Tribal,4/10/2002,,,Kampa,50,Rio Branco,19,AC,Tarauacn,20300,23,761374.7752,20,596438.2406
+401,,Kampa do Rio Amonea,Indigenous Reserve,Indigenous Reserve,Tribal,11/23/1995,,,Kampa,120,Rio Branco,410,AC,Marechal Thaumaturgo,20400,23,886363.7165,20,727921.4376
+399,,Kampa e Isolados do Rio Envira,Indigenous Reserve,Indigenous Reserve,Tribal,9/13/1999,,,Kampa,117,Rio Branco,230,AC,"Feija, Jordao",20500,23,730367.9905,20,575000.1572
+412,,Kanamari do Rio Juru,Indigenous Reserve,Indigenous Reserve,Tribal,4/3/2002,,,Kanamari,132,Manaus,496,AM,"Eirunepi, Itamarati, Pauini",20600,23,482274.5332,20,320649.763
+379,,Kanela,Indigenous Reserve,Indigenous Reserve,Tribal,4/22/1983,,,Canela,85,Barra do Corda,1268,MA,"Barra do Corda, Fernando Falcao",20700,5,246956.0036,76,108997.2224
+640,,Kanela,Indigenous Reserve,Indigenous Reserve,Tribal,10/29/2004,,,Canela,508,Barra do Corda,1268,MA,"Barra do Corda, Fernando Falcao",20700,5,279446.0331,76,125522.0838
+682,,Kapotnhinore,Indigenous Reserve,Indigenous Reserve,Tribal,9/27/2004,,,Kayape,550,Col,0,"MT, PA","Santa Cruz do Xingu, Sao F",64500,28,464703.4791,74,333554.6595
+337,,Karaj,Indigenous Reserve,Indigenous Reserve,Tribal,8/9/2001,,,Karaji,10,Goi0nia,72,GO,Aruana,21000,48,385277.5101,79,218134.4604
+338,,Karaj,Indigenous Reserve,Indigenous Reserve,Tribal,8/7/2001,,,Karaji,11,Goi0nia,0,GO,Aruana,21200,48,382178.1659,79,217807.8849
+380,,Karaj,Indigenous Reserve,Indigenous Reserve,Tribal,3/8/1989,,,Karaja,86,Aragua,74,PA,Santa Maria das Barreiras,21300,28,179115.2538,46,179132.6606
+457,,Karaj,Indigenous Reserve,Indigenous Reserve,Tribal,3/22/1999,,,Karaji,188,Goi,0,MT,Cocalinho,21100,48,385250.9309,79,214056.4107
+773,,Karaj,Indigenous Reserve,Indigenous Reserve,Tribal,7/30/2008,,,Karaja,694,Aragua,74,PA,Santa Maria das Barrreiras,21300,28,178365.2011,46,178384.193
+471,,KararaU,Indigenous Reserve,Indigenous Reserve,Tribal,10/6/1999,,,Kararar,204,Altamira,28,PA,Altamira,21500,3,174548.709,10,119973.716
+352,,Karipuna,Indigenous Reserve,Indigenous Reserve,Tribal,6/24/1999,,,Karipuna,32,Porto Velho,30,RO,"Nova Mamoro, Porto Velho",21600,23,47444.24251,39,47434.94614
+516,,Karitiana,Indigenous Reserve,Indigenous Reserve,Tribal,9/19/2002,,,Karipuna,292,Porto Velho,130,RO,Porto Velho,21800,45,46879.70341,68,46877.23015
+706,,Karitiana,Indigenous Reserve,Indigenous Reserve,Tribal,7/11/2008,,,Karipuna,574,Porto Velho,130,RO,"Candeias do Jamari, Porto Velho",21800,45,46498.60662,68,46493.78409
+405,,Katukina/Kaxinaww,Indigenous Reserve,Indigenous Reserve,Tribal,7/6/1999,,,"Katukina, Kaxinawo",125,Rio Branco,460,AC,Feijk,21900,23,629510.5245,20,459138.4507
+617,,Kawahiva do Rio Pardo,Indigenous Reserve,Indigenous Reserve,Tribal,3/9/2007,,,Isolados,432,Cacoal,0,MT,Colniza,61400,4,106000.642,29,106011.2729
+767,,Kaxarari,Indigenous Reserve,Indigenous Reserve,Tribal,9/20/1999,,,Kaxarari,686,Rio Branco,191,"AM, RO","LMbrea, Porto Velho",22000,23,150942.2556,16,35546.38808
+339,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,8/30/2002,,,Kaxinawn,12,Rio Branco,30,AC,Feijn,22700,23,644501.8903,20,483847.4733
+359,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,3/14/2002,,,Kaxinawn,48,Rio Branco,30,AC,Jordao,22400,23,793955.5959,20,634237.2797
+397,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,11/25/1996,,,Kaxinawn,114,Rio Branco,255,AC,Feijn,22500,23,728431.1856,20,565567.3608
+475,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,4/29/1996,,,Kaxinawn,215,Rio Branco,1250,AC,Jordao,22600,23,799279.8851,20,640556.4805
+476,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,7/19/2002,,,"Kampa, Kaxinawo",216,Rio Branco,210,AC,"Jordao, Marechal Thaumaturgo",22100,23,819752.7538,20,663402.457
+477,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,6/4/2002,,,Kaxinawn,217,Rio Branco,195,AC,Tarauacn,22300,23,718731.8236,20,550687.786
+494,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,4/15/1996,,,Kaxinawn,251,Rio Branco,95,AC,Tarauacn,22200,23,678859.8507,20,509085.7903
+718,,Kaxinaw,Indigenous Reserve,Indigenous Reserve,Tribal,10/10/2001,,,Kaxinawn,586,Rio Branco,0,AC,Feijn,57300,23,643539.9008,20,475345.7168
+400,,KaxinawD Seringal Independencia,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Kaxinawn,119,Rio Branco,40,AC,Jordao,22800,23,780234.8681,20,620932.6724
+749,,Kaxuyana,Indigenous Reserve,Indigenous Reserve,Tribal,3/26/2010,,,Kaxuyana,638,Parintins,0,PA,Oriximin,68100,0,281722.6419,11,241428.9226
+365,,Kayap,Indigenous Reserve,Indigenous Reserve,Tribal,3/7/1989,,,Kayapn,56,Redennao,2515,PA,"Bannach, Cumaru do Norte, Ourilindia do Norte, Sao F4lix do Xingu",23000,28,345107.8707,4,247043.0958
+657,,Km 43,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Munduruku,525,Itaituba,0,PA,Itaituba,57900,3,271248.5449,70,55464.66998
+381,,Koatinemo,Indigenous Reserve,Indigenous Reserve,Tribal,9/23/2003,,,Asurinr,87,Altamira,89,PA,"Altamira, Senador Josg Porflrio",23200,3,220950.2702,10,100136.5223
+623,,Krah0-Kanela,Indigenous Reserve,Indigenous Reserve,Tribal,2/23/2007,,,Krahp-Kanela,441,Gurupi,0,TO,Lagoa da Confusao,62300,36,207627.3609,34,151039.871
+454,,Kraolandia,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/1992,,,Krah,184,AraguaBna,1402,TO,"Goiatins, Itacaja",23300,28,148041.2292,81,49740.16562
+759,,Krenreh,Indigenous Reserve,Indigenous Reserve,Tribal,11/23/2009,,,Krenak,671,Gurupi,0,MT,Luciara,65800,36,354928.9649,34,322950.0966
+442,,Krikati,Indigenous Reserve,Indigenous Reserve,Tribal,9/3/2008,,,Krikat,166,Aragua,538,MA,"Amarante do Maranhao, Lajeado Novo, Montes Altos, Sltio Novo",23500,5,66837.05874,73,44212.99768
+522,,Kulina do Medio Jurua,Indigenous Reserve,Indigenous Reserve,Tribal,3/25/2002,,,Kulina,299,Manaus,920,"AC, AM","Eirunepi, Envira, Ipixuna, Tarauac8",23700,23,629518.2292,20,457304.808
+356,,Kulina do Rio Envira,Indigenous Reserve,Indigenous Reserve,Tribal,12/11/1996,,,"Kaxinawn, Kulina",38,Rio Branco,210,AC,Feijn,23800,23,705994.3345,20,548164.3174
+707,,Kulina do Rio Uern - Matatibem,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Kulina,575,Manaus,120,AM,Carauari,61500,23,511912.2497,20,397420.078
+358,,Kulina Igarapo do Pau,Indigenous Reserve,Indigenous Reserve,Tribal,10/31/2001,,,Kulina,45,Rio Branco,48,AC,Feijn,23900,23,671950.1302,20,513451.9335
+552,,Kumaru do Lago Ual ,Indigenous Reserve,Indigenous Reserve,Tribal,3/29/2005,,,Kulina,334,Manaus,280,AM,Jurun,24000,45,653292.3833,19,600013.861
+574,,Kuru0ya,Indigenous Reserve,Indigenous Reserve,Tribal,10/14/2008,,,Kuru,371,Altamira,107,PA,Altamira,38900,3,290538.2898,15,198070.2035
+361,,Kwaz0 do Rio Sao Pedro,Indigenous Reserve,Indigenous Reserve,Tribal,9/24/2003,,,"Aikann, Kwazr",51,Vilhena,18,RO,Parecis,24100,40,79005.56577,64,79009.15104
+424,,Lago Aiapua,Indigenous Reserve,Indigenous Reserve,Tribal,11/17/1995,,,Mura,144,Manaus,420,AM,"Anori, Beruri",24200,0,393500.3635,6,393500.0128
+636,,Lago Capana,Indigenous Reserve,Indigenous Reserve,Tribal,10/19/2004,,,Mura,469,Manaus,28,AM,Manicora,24300,41,324343.7777,75,312827.0952
+671,,Lago do Barrigudo,Indigenous Reserve,Indigenous Reserve,Tribal,6/21/2004,,,Apurina,539,Manaus,25,AM,Beruri,51400,0,311669.5714,6,311667.1004
+465,,Lago do Beruri,Indigenous Reserve,Indigenous Reserve,Tribal,3/11/1996,,,Tikuna,196,Manaus,120,AM,Beruri,24400,0,284830.278,6,284829.1876
+777,,Lago do Correio,Indigenous Reserve,Indigenous Reserve,Tribal,12/21/2009,,,"Kokama, Tikuna",702,Tabatinga,0,AM,Santo Antinio do Ipe,52700,23,844338.4567,20,711118.0667
+667,,Lago do Limao,Indigenous Reserve,Indigenous Reserve,Tribal,12/8/2008,,,Mura,535,Manaus,49,AM,Borba,24500,0,257580.6655,6,257573.8164
+764,,Lago do Marinheiro,Indigenous Reserve,Indigenous Reserve,Tribal,8/31/2007,,,Mura,679,Manaus,65,AM,Careiro,27400,0,190092.0029,6,190086.3388
+756,,Lago Grande,Indigenous Reserve,Indigenous Reserve,Tribal,7/30/2008,,,Karaj,662,Sao F,0,MT,Santa Terezinha,69300,28,215621.8689,46,215674.8697
+443,,Lago Jauari,Indigenous Reserve,Indigenous Reserve,Tribal,2/9/2009,,,Mura,167,Manaus,145,AM,Manicor,24700,41,319207.7302,75,294629.0767
+382,,Lagoa Comprida,Indigenous Reserve,Indigenous Reserve,Tribal,12/19/1996,,,Guajajara,88,Barra do Corda,470,MA,"Itaipava do Graja , Jenipapo dos Vieiras",24800,5,230853.9213,73,188238.4321
+495,,Lagoa dos Brincos,Indigenous Reserve,Indigenous Reserve,Tribal,3/13/1996,,,Negorote,253,Vilhena,65,MT,Comodoro,25000,40,146969.8315,44,124727.1716
+704,,Lameirao,Indigenous Reserve,Indigenous Reserve,Tribal,1/1/1995,,,Mayoruna,572,Atalaia do Norte,113,AM,Atalaia do Norte,25200,23,848801.3125,20,688487.3359
+766,,Las Casas,Indigenous Reserve,Indigenous Reserve,Tribal,12/21/2009,,,Kayap ,681,Reden ao,0,PA,"Floresta do Araguaia, Pau d'Arco, Reden0ao",56800,28,258832.2005,4,186056.9061
+553,,Lauro Sodr,Indigenous Reserve,Indigenous Reserve,Tribal,6/8/2006,,,Tikuna,335,Tabatinga,202,AM,Benjamin Constant,25400,23,774958.1065,20,620070.8578
+556,,M8dio Rio Negro I,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2000,,,"Ban6wa, Bar , Desana, Mak,, TariIna, Tukano",342,Sao Gabriel da Cachoeira,2826,AM,"Japura, Santa Isabel do Rio Negro, Sao Gabriel da Cachoeira",28500,0,686495.9349,59,653267.2975
+408,,M8dio Rio Negro II,Indigenous Reserve,Indigenous Reserve,Tribal,8/1/2000,,,Ban,128,Sao Gabriel da Cachoeira,0,AM,"Santa Isabel do Rio Negro, Sao Gabriel da Cachoeira",28600,0,686985.6842,59,650219.262
+528,,Macarrao,Indigenous Reserve,Indigenous Reserve,Tribal,3/11/2002,,,Tikuna,305,Manaus,390,AM,Jutan,25900,45,729794.4044,19,641745.6125
+496,,Mae Maria,Indigenous Reserve,Indigenous Reserve,Tribal,3/7/1989,,,Gaviao,256,Marab,340,PA,Bom Jesus do Tocantins,26000,51,145653.8735,49,10885.72428
+565,,Malacacheta,Indigenous Reserve,Indigenous Reserve,Tribal,5/14/1999,,,Wapixana,356,Boa Vista,250,RR,Cantx,26100,0,493009.4042,59,376636.1313
+609,,Mamoadate,Indigenous Reserve,Indigenous Reserve,Tribal,7/2/1999,,,"Jaminawa, Machineri",423,Rio Branco,455,AC,"Assis Brasil, Sena Madureira",26200,23,569343.3509,20,433457.0481
+710,,Mamorip,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Apurina,578,Rio Branco,0,AM,Pauini,54700,23,306612.2379,20,166788.1952
+721,,Manchineri do Seringal Guanabara,Indigenous Reserve,Indigenous Reserve,Tribal,11/14/2003,,,Machineri,589,Rio Branco,92,AC,"Assis Brasil, Sena Madureira",62700,23,543739.9493,20,407902.2783
+383,,Mangueira,Indigenous Reserve,Indigenous Reserve,Tribal,12/1/1995,,,Makuxi,89,Boa Vista,240,RR,Alto Alegre,26300,0,609156.1407,59,495825.7155
+384,,Manoa/Pium,Indigenous Reserve,Indigenous Reserve,Tribal,11/29/1995,,,"Makuxi, Wapixana",90,Boa Vista,599,RR,Bonfim,26500,0,532184.6415,59,415239.3314
+593,,Mapari,Indigenous Reserve,Indigenous Reserve,Tribal,12/31/2007,,,Cayxana,401,Manaus,97,AM,"Fonte Boa, Japurm, Tonantins",26600,45,800654.0299,19,717904.0817
+413,,Maraa Urubaxi,Indigenous Reserve,Indigenous Reserve,Tribal,7/11/2000,,,"Kanamari, Maki",133,Manaus,124,AM,"Maraa, Santa Isabel do Rio Negro",26700,0,649190.682,59,637423.2026
+643,,Maracaxi,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Temb2,511, ,0,PA,"Aurora do ParG, Santa Maria do Pare, Tom)-Aiu",65400,51,244217.4975,80,244211.4217
+633,,MaraitU,Indigenous Reserve,Indigenous Reserve,Tribal,4/5/2010,,,Tikuna,466,Tabatinga,0,AM,Amatur,26800,23,770421.9867,20,646632.8802
+452,,Maraiwatsede,Indigenous Reserve,Indigenous Reserve,Tribal,9/8/1999,,,Xavante,181,C,700,MT,"Alto Boa Vista, Bom Jesus do Araguaia, Sao Fclix do Araguaia",26900,36,330774.4733,34,327457.2648
+426,,Marajai,Indigenous Reserve,Indigenous Reserve,Tribal,5/14/1997,,,Mayoruna,146,Manaus,267,AM,Alvaraes,27000,0,610191.0385,19,600689.9013
+638,,Maranduba,Indigenous Reserve,Indigenous Reserve,Tribal,10/2/2009,,,Karajs,472,Sao Fslix do Araguaia,31,"PA, TO","Araguacema, Santa Maria das Barreiras",27100,28,174215.5277,46,174231.2377
+469,,Marechal Rondon,Indigenous Reserve,Indigenous Reserve,Tribal,10/30/1997,,,Xavante,201,C,376,MT,Paranatinga,27200,34,199728.8973,47,130024.8585
+470,,Massaco,Indigenous Reserve,Indigenous Reserve,Tribal,9/15/1999,,,Isolados,203,Porto Velho,0,RO,"Alta Floresta d'Oeste, Sao Francisco do Guapora",27700,40,168116.7059,64,168124.256
+779,,Matintin,Indigenous Reserve,Indigenous Reserve,Tribal,9/22/2009,,,Tikuna,708,Tabatinga,146,AM,Santo Ant,28100,23,812185.6524,20,688437.1931
+439,,Mawetek,Indigenous Reserve,Indigenous Reserve,Tribal,4/29/2004,,,Kanamari,159,Manaus,207,AM,"Eirunepi, Jutas",28200,23,644142.237,20,473276.8316
+557,,Menk0,Indigenous Reserve,Indigenous Reserve,Tribal,8/26/1987,,,Menku,344,TangarR da Serra,72,MT,Brasnorte,28800,4,235668.5115,63,72948.64728
+694,,Menk0,Indigenous Reserve,Indigenous Reserve,Tribal,12/5/2008,,,Menku,562,Tangaro da Serra,72,MT,Brasnorte,28800,4,242248.698,63,68607.99704
+608,,Menkragnoti,Indigenous Reserve,Indigenous Reserve,Tribal,7/5/1994,,,MenkrangnotI,422,Col,626,"MT, PA","Altamira, Matupa, Peixoto de Azevedo, Sao FIlix do Xingu",28700,28,402369.2367,74,249486.6868
+427,,Meria,Indigenous Reserve,Indigenous Reserve,Tribal,11/27/1995,,,Miranha,147,Manaus,75,AM,Alvaraes,28900,0,614459.4819,19,597016.9867
+619,,Merure,Indigenous Reserve,Indigenous Reserve,Tribal,11/6/1987,,,Bororo,434,C,524,MT,"Barra do Gar as, General Carneiro",29000,19,233812.4495,79,17118.36875
+432,,Miguel/Josefa,Indigenous Reserve,Indigenous Reserve,Tribal,5/20/2002,,,Mura,152,Manaus,247,AM,Autazes,29100,0,210209.0734,6,210199.7613
+535,,Miratu,Indigenous Reserve,Indigenous Reserve,Tribal,11/12/2004,,,Miranha,312,Manaus,293,AM,Uarini,29200,0,643570.631,19,610223.5504
+649,,Mirixipi,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Arapiun,517,Itaituba,0,PA,Santarnm,60900,3,101714.7529,28,101727.2345
+714,,Monte/Primavera/Goiaba,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,"Apurina, Jamamadi",582,Rio Branco,178,AM,Boca do Acre,16700,23,261554.5892,20,91579.20429
+488,,Morro Branco,Indigenous Reserve,Indigenous Reserve,Tribal,2/29/1984,,,Guajajara,232,Sao Lurs,136,MA,Grajaj,29500,5,173159.5221,73,152013.7005
+482,,Moskow,Indigenous Reserve,Indigenous Reserve,Tribal,9/26/2005,,,Wapixana,223,Boa Vista,272,RR,Bonfim,29700,0,511027.2654,59,394098.8511
+597,,Munduruku,Indigenous Reserve,Indigenous Reserve,Tribal,6/4/2004,,,Munduruku,405,Itaituba,4106,PA,Jacareacanga,29800,4,274641.6939,32,64141.25172
+789,,Munduruku-Taquara,Indigenous Reserve,Indigenous Reserve,Tribal,10/29/2009,,,Munduruku,724,Itaituba,0,PA,Belterra,58000,3,85862.41437,28,85863.58295
+666,,Muratuba,Indigenous Reserve,Indigenous Reserve,Tribal,12/8/2008,,,Mura,534,Manaus,31,AM,Autazes,29900,0,210293.5255,6,210285.6996
+743,,Muratuba do Par ,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Tupinamb,617,Itaituba,0,PA,Santarmm,57400,3,67657.13038,28,67666.0899
+483,,Muriru,Indigenous Reserve,Indigenous Reserve,Tribal,7/15/2008,,,Wapixana,224,Boa Vista,20,RR,"Bonfim, Cant",30000,0,497661.8486,59,380788.5193
+661,,Murutinga,Indigenous Reserve,Indigenous Reserve,Tribal,12/8/2008,,,Mura,529,Manaus,572,AM,Autazes,30100,0,159799.2989,6,159790.2925
+455,,Nambikwara,Indigenous Reserve,Indigenous Reserve,Tribal,10/28/1987,,,Nambikwara,185,Vilhena,220,MT,Comodoro,30200,40,122368.7891,22,23509.74082
+430,,Natal/Felicidade,Indigenous Reserve,Indigenous Reserve,Tribal,6/16/1997,,,Mura,150,Manaus,97,AM,Autazes,30400,0,183853.3242,6,183844.0716
+723,,Nau0,Indigenous Reserve,Indigenous Reserve,Tribal,6/20/2005,,,Nau ,591,Rio Branco,0,AC,MCncio Lima,56600,23,982370.0128,20,812470.5584
+425,,Nhamund,Indigenous Reserve,Indigenous Reserve,Tribal,9/21/1994,,,"Hixkaryana, Waiwvi",145,Manaus,1116,"AM, PA","Faro, Nhamunda, Oriximino, Urucarb",30500,0,137468.584,59,99913.52771
+688,,Norotsura,Indigenous Reserve,Indigenous Reserve,Tribal,5/19/2004,,,Xavante,556,Campin,0,MT,"Agua Boa, Campin(polis, Nova Xavantina",64300,34,325191.4738,79,101786.1041
+444,,Nova Esperan,Indigenous Reserve,Indigenous Reserve,Tribal,7/24/2007,,,Tikuna,168,Tabatinga,180,AM,Amatur,31000,23,758405.1065,20,626111.0152
+357,,Nova Jacund ,Indigenous Reserve,Indigenous Reserve,Tribal,2/14/1996,,,Guarani Mbyi,43,Marab,0,PA,Rondon do Par ,31100,51,126955.5647,49,62385.70725
+653,,Nova Vista,Indigenous Reserve,Indigenous Reserve,Tribal,8/21/2001,,,Arapiun,521,Itaituba,0,PA,Santarnm,55700,3,121181.8589,28,121192.6844
+536,,Nove de Janeiro,Indigenous Reserve,Indigenous Reserve,Tribal,8/14/2001,,,Diahui,313,Porto Velho,141,AM,Humait,31200,41,149081.611,75,129432.9865
+402,,Nukini,Indigenous Reserve,Indigenous Reserve,Tribal,5/12/1997,,,Nukuini,121,Rio Branco,425,AC,MCncio Lima,31300,23,964516.8598,20,794002.0807
+724,,Nukini,Indigenous Reserve,Indigenous Reserve,Tribal,11/27/2002,,,Nukuini,592,Rio Branco,425,AC,MCncio Lima,31300,23,980193.6072,20,809793.5916
+497,,Ouro,Indigenous Reserve,Indigenous Reserve,Tribal,11/29/1995,,,Makuxi,257,Boa Vista,105,RR,Boa Vista,31500,0,600876.4024,59,484439.0848
+630,,Pacaas Novas,Indigenous Reserve,Indigenous Reserve,Tribal,11/21/1995,,,Pakaanova,459,GuajarU-Mirim,861,RO,Guajaro-Mirim,31600,23,191190.0401,39,191190.4787
+645,,Pacaj,Indigenous Reserve,Indigenous Reserve,Tribal,6/26/2003,,,Asurinp,513, ,0,PA,Portel,55400,51,92377.56595,80,92389.2776
+543,,Padre,Indigenous Reserve,Indigenous Reserve,Tribal,6/21/2004,,,Mura,320,Manaus,22,AM,Autazes,31900,0,202497.1661,6,202487.9534
+605,,Panar,Indigenous Reserve,Indigenous Reserve,Tribal,9/9/2002,,,Panare,419,Col,337,"MT, PA","Altamira, Guaranta do Norte, Matupe",32200,4,551931.4149,74,196628.8292
+662,,Pantaleao,Indigenous Reserve,Indigenous Reserve,Tribal,4/6/2010,,,Mura,530,Manaus,182,AM,Autazes,32500,0,186237.5626,6,186228.2365
+385,,Paqui,Indigenous Reserve,Indigenous Reserve,Tribal,8/5/1994,,,Juruna,92,Altamira,32,PA,Vituria do Xingu,32600,51,237950.9427,10,34897.45339
+741,,Paqui,Indigenous Reserve,Indigenous Reserve,Tribal,7/17/2007,,,Juruna,615,Altamira,32,PA,Vituria do Xingu,32600,51,244576.2993,10,32193.11421
+562,,Parabubure,Indigenous Reserve,Indigenous Reserve,Tribal,8/26/1987,,,Xavante,353,Nova Xavantina,3357,MT,"Agua Boa, CampinFpolis, Nova Xavantina",32700,34,255169.4865,79,70313.35655
+541,,Paracuhuba,Indigenous Reserve,Indigenous Reserve,Tribal,6/6/1997,,,Mura,318,Manaus,67,AM,Autazes,32800,0,184808.7162,6,184799.0955
+386,,Parakana,Indigenous Reserve,Indigenous Reserve,Tribal,3/7/1989,,,Parakana,93,Marab,422,PA,"Itupiranga, Novo Repartimento",32900,51,73236.35238,80,73236.78585
+445,,Paran,Indigenous Reserve,Indigenous Reserve,Tribal,9/26/2005,,,Mura,171,Manaus,103,AM,Itacoatiara,33000,0,164553.0667,6,164542.315
+576,,Parana do Boa Boa,Indigenous Reserve,Indigenous Reserve,Tribal,2/20/2002,,,Mak,373,Manaus,105,AM,"Japurs, Santa Isabel do Rio Negro",33100,0,813055.2807,19,761983.0352
+414,,Parana do Parica,Indigenous Reserve,Indigenous Reserve,Tribal,4/25/2001,,,Kanamari,134,Manaus,40,AM,Maraa,33200,0,702771.4366,59,696652.0556
+612,,Paresi,Indigenous Reserve,Indigenous Reserve,Tribal,5/18/1987,,,Paresi,426,Tangarr da Serra,711,MT,Tangar,33400,24,43511.08859,42,34217.95866
+468,,Parque do Araguaia,Indigenous Reserve,Indigenous Reserve,Tribal,10/31/2001,,,Av0,199,Gurupi,1801,TO,"Formoso do Araguaia, Lagoa da Confusao, Pium",33500,36,167376.6764,34,167118.0863
+729,,Parque do Aripuana,Indigenous Reserve,Indigenous Reserve,Tribal,7/29/1988,,,Cinta Larga,598,Ju,244,"MT, RO","Ju,na, Vilhena",33600,40,33607.18144,64,33597.28123
+353,,Parque do Tumucumaque,Indigenous Reserve,Indigenous Reserve,Tribal,6/30/1980,,,"Apalaa, Wayana",34,Macapa,1017,"AP, PA","Alenquer, Almeirim, Laranjal do Jari, Obidos, Oriximin",33700,46,290734.3678,7,213420.33
+584,,Parque do Xingu,Indigenous Reserve,Indigenous Reserve,Tribal,5/18/1987,,,"Mentuktire, Suyj",383,Xingu,3110,MT,"Canarana, Feliz Natal, Gaxcha do Norte, Marcelondia, Nova Ubirata, Paranatinga, Quertncia, Sao Filix do Araguaia, Sao Josa do Xingu",33800,34,282815.3523,47,150478.7393
+429,,Patau,Indigenous Reserve,Indigenous Reserve,Tribal,10/29/2004,,,Mura,149,Manaus,47,AM,Autazes,33900,0,167979.8704,6,167970.9399
+696,,Paukalirajausu,Indigenous Reserve,Indigenous Reserve,Tribal,8/10/2009,,,Nambikwara,564,Vilhena,0,MT,"Nova Lacerda, Vila Bela da Santossima Trindade",34100,17,82900.81305,33,82912.8128
+343,,Paumari do Cuniua,Indigenous Reserve,Indigenous Reserve,Tribal,4/6/1999,,,Paumari,17,Rio Branco,53,AM,Tapaur,34200,45,306086.9463,19,275212.9087
+460,,Paumari do Lago Manissua,Indigenous Reserve,Indigenous Reserve,Tribal,11/18/2004,,,Paumari,191,Rio Branco,86,AM,Tapaur,34300,45,330406.036,19,314940.2965
+420,,Paumari do Lago Maraha,Indigenous Reserve,Indigenous Reserve,Tribal,8/29/2003,,,"Apurina, Paumari",140,Rio Branco,561,AM,LMbrea,34400,45,168584.0707,19,91336.46319
+458,,Paumari do Lago Parico,Indigenous Reserve,Indigenous Reserve,Tribal,4/5/1999,,,Paumari,189,Rio Branco,60,AM,Tapaur,34500,45,320852.4885,19,301002.551
+416,,Paumari do Rio Ituxi,Indigenous Reserve,Indigenous Reserve,Tribal,4/7/1999,,,Paumari,136,Rio Branco,52,AM,LMbrea,34600,45,190777.7242,19,142882.8389
+410,,Peneri/Tacaquiri,Indigenous Reserve,Indigenous Reserve,Tribal,1/4/2000,,,Apurina,130,Rio Branco,309,AM,Pauini,34700,23,266528.8473,20,94183.61452
+334,,Pequizal,Indigenous Reserve,Indigenous Reserve,Tribal,3/13/1996,,,Nambikwara,6,Vilhena,45,MT,Nova Lacerda,34800,17,127861.4452,44,124892.3066
+588,,Pequizal do Naruv tu,Indigenous Reserve,Indigenous Reserve,Tribal,6/4/2009,,,Naravute,392,Cuiabi,0,MT,"Canarana, Ga",55200,34,365041.2429,79,248841.9469
+369,,Perigara,Indigenous Reserve,Indigenous Reserve,Tribal,2/2/1994,,,Bororo,63,Cuiab,96,MT,Barao de Melgaao,34900,19,139087.1559,36,139092.8903
+659,,Pimental,Indigenous Reserve,Indigenous Reserve,Tribal,8/6/2008,,,Munduruku,527,Itaituba,0,PA,"Itaituba, Trairao",56700,3,281463.9086,15,55428.97861
+404,,Pimentel Barbosa,Indigenous Reserve,Indigenous Reserve,Tribal,6/17/1994,,,Xavante,124,Nova Xavantina,1667,MT,"Canarana, Ribeirao Cascalheira",35300,36,322809.5647,79,198904.1327
+686,,Pimentel Barbosa,Indigenous Reserve,Indigenous Reserve,Tribal,4/8/2005,,,Xavante,554,Nova Xavantina,1667,MT,"Canarana, Cocalinho, Ribeirao Cascalheira",35300,36,345695.4302,79,286414.5437
+341,,Pinatuba,Indigenous Reserve,Indigenous Reserve,Tribal,7/17/2006,,,Mura,15,Manaus,458,AM,Manicor,35400,0,421927.1107,75,374351.8337
+590,,Piraha,Indigenous Reserve,Indigenous Reserve,Tribal,9/11/2001,,,"Mura, Piraha",398,Porto Velho,179,AM,HumaitP,35700,41,158201.5849,75,115765.3105
+449,,Pirineus de Souza,Indigenous Reserve,Indigenous Reserve,Tribal,5/16/1985,,,Nambikwara,178,Vilhena,120,MT,Comodoro,36100,40,105899.277,22,98010.1133
+679,,Pirineus de Souza,Indigenous Reserve,Indigenous Reserve,Tribal,10/8/2004,,,Nambikwara,547,Vilhena,120,MT,Comodoro,36100,40,100345.9843,64,100331.5169
+762,,Piripkura ( Interdilao ),Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,Isolados,676,Ju,0,MT,"Colniza, Rondol ndia",66900,4,143803.3129,75,112549.6785
+498,,Pium,Indigenous Reserve,Indigenous Reserve,Tribal,11/24/1995,,,Wapixana,259,Boa Vista,182,RR,Alto Alegre,36300,0,610821.093,59,496061.7549
+664,,Ponciano,Indigenous Reserve,Indigenous Reserve,Tribal,12/8/2008,,,Mura,532,Manaus,0,AM,"Autazes, Careiro da V rzea",53200,0,173285.3687,6,173276.9184
+499,,Ponta da Serra,Indigenous Reserve,Indigenous Reserve,Tribal,11/30/1995,,,Makuxi,260,Boa Vista,312,RR,Boa Vista,36400,0,622432.3374,59,506538.054
+751,,Pontal dos Apiak ,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2010,,,Apiake e Isolados,640,Col,0,MT,Apiaces,68300,4,296782.9356,32,188707.3227
+601,,Ponte de Pedra,Indigenous Reserve,Indigenous Reserve,Tribal,6/22/2006,,,Paresi,409,TangarL da Serra,1406,MT,"Campo Novo do Parecis, Diamantino, Nova MaringM",36500,26,143031.6946,52,36279.49038
+398,,Porquinhos,Indigenous Reserve,Indigenous Reserve,Tribal,5/18/1984,,,Canela,116,Barra do Corda,559,MA,"Barra do Corda, Fernando Falcao",36600,5,188781.3657,76,111904.7477
+625,,Porquinhos,Indigenous Reserve,Indigenous Reserve,Tribal,9/17/2009,,,Canela,443,Barra do Corda,559,MA,"Barra do Corda, Fernando Falcao, Formosa da Serra Negra, Mirador",36600,5,178492.4256,76,76477.97826
+578,,Portal do Encantado,Indigenous Reserve,Indigenous Reserve,Tribal,12/4/2009,,,Xiquitano,375,Vilhena,209,MT,"Pontes e Lacerda, Porto Esperidiao, Vila Bela da Sant ssima Trindade",59000,17,113942.1993,33,113939.5161
+600,,Porto Limoeiro,Indigenous Reserve,Indigenous Reserve,Tribal,5/18/2010,,,Tikuna,408,Tabatinga,0,AM,Santo Ant,57100,23,827902.3414,20,695653.3272
+434,,Porto Praia,Indigenous Reserve,Indigenous Reserve,Tribal,10/26/2004,,,Tikuna,154,Manaus,118,AM,Uarini,36800,0,632797.784,19,629747.3766
+702,,Porto RedenAao,Indigenous Reserve,Indigenous Reserve,Tribal,8/21/2001,,,Tikuna,570,Tabatinga,0,AM,Sao Paulo de Olivenva,57000,23,778199.9339,20,646863.9917
+545,,Poyanawa,Indigenous Reserve,Indigenous Reserve,Tribal,8/14/2002,,,Poyanawa,322,Rio Branco,350,AC,MCncio Lima,37200,23,923743.2112,20,753495.6732
+725,,Praia do Indio,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Munduruku,593,Itaituba,69,PA,Itaituba,37300,3,251413.2549,70,89429.11388
+473,,Praia do Mangue,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Munduruku,211,Itaituba,97,PA,Itaituba,37400,3,245041.9182,70,96146.54092
+785,,Prosperidade,Indigenous Reserve,Indigenous Reserve,Tribal,12/21/2009,,,Kokama,718,Tabatinga,0,AM,Tonantins,53400,45,777668.5055,19,683517.8135
+678,,Purubor,Indigenous Reserve,Indigenous Reserve,Tribal,5/17/2007,,,Purubore,546,Porto Velho,0,RO,"Sao Francisco do Guaporo, Seringueiras",65500,40,271965.7705,64,271976.0585
+350,,Raimundao,Indigenous Reserve,Indigenous Reserve,Tribal,5/29/1998,,,"Makuxi, Wapixana",27,Boa Vista,240,RR,Alto Alegre,37700,0,564376.7727,59,451581.4855
+571,,Raposa Serra do Sol,Indigenous Reserve,Indigenous Reserve,Tribal,9/12/2006,,,"Taurepang,Makuxi,Ingariko,Patamona,Wapixana",367,Boa Vista,9688,RR,"Normandia, Pacaraima, Uiramuta",37900,0,592365.8186,59,475502.7494
+348,,Recreio/Sao F3lix,Indigenous Reserve,Indigenous Reserve,Tribal,11/22/1995,,,Mura,22,Manaus,132,AM,Autazes,38000,0,182035.8635,6,182026.6198
+524,,Rio Apaporis,Indigenous Reserve,Indigenous Reserve,Tribal,2/11/2000,,,"Desana, Mak , Tukano, Tuycka",301,Sao Gabriel da Cachoeira,141,AM,Japura,38200,45,1013448.57,20,890516.332
+683,,Rio Arraias/BR 080,Indigenous Reserve,Indigenous Reserve,Tribal, ,,,Kayabi,551,Col,0,MT,Marcel,38400,34,487075.7972,74,181978.2921
+415,,Rio BiU,Indigenous Reserve,Indigenous Reserve,Tribal,9/11/2006,,,Katukina,135,Manaus,400,AM,"Carauari, Jutac",38500,23,540260.6048,20,396362.88
+500,,Rio Branco,Indigenous Reserve,Indigenous Reserve,Tribal,9/19/2002,,,"Makur p, Tupari",263,Porto Velho,320,RO,"Alta Floresta d'Oeste, Sao Francisco do Guaporf, Sao Miguel do Guapor,",38600,40,177334.8554,64,177344.3731
+672,,Rio Cuieras,Indigenous Reserve,Indigenous Reserve,Tribal,8/29/2003,,, ,540,Manaus,564,AM,Manaus e Novo Airao,61800,0,156069.3083,6,156076.4856
+387,,Rio Formoso,Indigenous Reserve,Indigenous Reserve,Tribal,12/12/1988,,,Paresi,97,Tangarn da Serra,104,MT,Tangar,39300,24,10086.06775,42,4351.085969
+695,,Rio Formoso,Indigenous Reserve,Indigenous Reserve,Tribal,3/29/2004,,,Paresi,563,Tangar,104,MT,Tangar,39300,26,17415.83958,42,17222.46703
+351,,Rio Greglrio,Indigenous Reserve,Indigenous Reserve,Tribal,7/4/2002,,,"Katukina, Yawanaw",30,Rio Branco,430,AC,Tarauaca,39400,23,753643.2051,20,586474.0228
+592,,Rio Gregmrio,Indigenous Reserve,Indigenous Reserve,Tribal,12/31/2007,,,"Katukina, Yawanawa",400,Rio Branco,430,AC,Tarauaca,39400,23,753642.7678,20,586474.4385
+501,,Rio Guapor,Indigenous Reserve,Indigenous Reserve,Tribal,5/22/1997,,,"Jabuti, Makur",264,Guajara-Mirim,386,RO,"Guajar,-Mirim",39500,23,271199.1588,39,271197.1404
+555,,Rio Jumas,Indigenous Reserve,Indigenous Reserve,Tribal,7/13/2007,,,Mura,338,Manaus,44,AM,Careiro,39600,0,211387.0912,6,211380.616
+344,,Rio ManicorU,Indigenous Reserve,Indigenous Reserve,Tribal,1/8/2007,,,Mura,18,Manaus,52,AM,Manicor ,39700,41,345610.7566,75,300890.1417
+654,,Rio Mara,Indigenous Reserve,Indigenous Reserve,Tribal,10/21/2008,,,Arapiun,522,Itaituba,0,PA,Santarnm,55100,3,158210.3101,28,158219.3607
+502,,Rio Mequens,Indigenous Reserve,Indigenous Reserve,Tribal,5/26/1997,,,Sakiriabar,265,Cacoal,89,RO,Alto Alegre do Parecis,39800,40,111295.8198,64,111298.6633
+388,,Rio Negro Ocaia,Indigenous Reserve,Indigenous Reserve,Tribal,10/9/1981,,,Pakaanova,98,Guajarr-Mirim,386,RO,Guajaro-Mirim,40000,23,179895.0161,39,179891.8296
+786,,Rio Negro Ocaia,Indigenous Reserve,Indigenous Reserve,Tribal,9/4/2009,,,Pakaanova,719,Guajarr-Mirim,386,RO,Guajaro-Mirim,40000,23,170071.1799,39,170068.7806
+575,,Rio Omerl,Indigenous Reserve,Indigenous Reserve,Tribal,4/18/2006,,,Akunt's,372,Vilhena,11,RO,"Chupinguaia, Corumbiara",40100,40,89933.58867,64,89927.9989
+354,,Rio Paru D'Este,Indigenous Reserve,Indigenous Reserve,Tribal,11/17/1998,,,"Apalaa, Wayana",35,Macapa,134,PA,"Alenquer, Almeirim, Monte Alegre",40200,46,188578.3604,7,139275.2377
+602,,Rio Pindar,Indigenous Reserve,Indigenous Reserve,Tribal,4/22/1983,,,Guajajara,415,Sao LuLs,556,MA,Bom Jardim,40300,5,381066.2373,73,300591.9722
+448,,Rio T,Indigenous Reserve,Indigenous Reserve,Tribal,7/27/2000,,,Bar,177,Sao Gabriel da Cachoeira,259,AM,"Santa Isabel do Rio Negro, Sao Gabriel da Cachoeira",40400,0,650871.3032,59,618767.487
+554,,Rio Urubu,Indigenous Reserve,Indigenous Reserve,Tribal,9/26/2005,,,Mura,337,Manaus,374,AM,Itacoatiara,40500,0,129794.8795,6,129784.5991
+700,,Riozinho,Indigenous Reserve,Indigenous Reserve,Tribal,12/5/2002,,,"Kokama, Tikuna",568,Manaus,22,AM,"Jurum, Jutau",53500,45,668177.6819,19,576650.1274
+579,,Riozinho do Alto Envira,Indigenous Reserve,Indigenous Reserve,Tribal,12/31/2007,,,Isolados,377,Rio Branco,105,AC,"Feija, Santa Rosa do Purus",51300,23,655531.8756,20,500179.5241
+447,,Rodeador,Indigenous Reserve,Indigenous Reserve,Tribal,1/26/1984,,,Guajajara,173,Barra do Corda,83,MA,Barra do Corda,40600,5,261718.7384,76,165275.849
+481,,Roosevelt,Indigenous Reserve,Indigenous Reserve,Tribal,2/21/2000,,,Cinta Larga,222,Cacoal,344,"MT, RO","Aripuana, Espigao d'Oeste, Pimenta Bueno",40700,40,53559.07954,64,53565.5186
+503,,Sagarana,Indigenous Reserve,Indigenous Reserve,Tribal,10/16/2002,,,Pakaanova,266,Guajarq-Mirim,234,RO,Guajaro-Mirim,40800,23,276906.8171,39,276905.0209
+489,,Sai-Cinza,Indigenous Reserve,Indigenous Reserve,Tribal,3/7/1989,,,Munduruku,238,Itaituba,873,PA,Jacareacanga,40900,4,415462.7385,37,149673.7978
+711,,Sakoa/Santa Vit ria,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Apurina,579,Rio Branco,0,AM,Pauini,53000,23,291521.6297,20,129844.1765
+332,,Sangradouro/Volta Grande,Indigenous Reserve,Indigenous Reserve,Tribal,9/19/1996,,,"Bororo, Xavante",3,C,858,MT,"General Carneiro, Novo Sao Joaquim, Poxor",41100,19,184569.7522,2,38193.72024
+691,,Sangradouro/Volta Grande,Indigenous Reserve,Indigenous Reserve,Tribal,8/15/2003,,,"Bororo, Xavante",559,C,858,MT,"General Carneiro, Novo Sao Joaquim, Poxor",41100,19,178446.7072,2,59790.17227
+794,,Santa Cruz da Nova Alianta,Indigenous Reserve,Indigenous Reserve,Tribal,12/7/2009,,,Kokama,730,Tabatinga,0,AM,Tonantins,53600,45,772433.4554,19,673790.773
+567,,Santa Inez,Indigenous Reserve,Indigenous Reserve,Tribal,11/30/1995,,,Makuxi,358,Boa Vista,152,RR,Amajari,41200,0,693533.1649,59,578749.0809
+333,,Santana,Indigenous Reserve,Indigenous Reserve,Tribal,6/26/1991,,,Bakairi,4,Cuiab,183,MT,Nobres,41300,34,74671.12155,47,59636.36907
+740,,Sao Domingos - MT,Indigenous Reserve,Indigenous Reserve,Tribal,7/2/2007,,,Karaj,614,Sao F,122,MT,Luciara,58300,36,276003.1467,34,242143.5872
+793,,Sao Domingos - MT,Indigenous Reserve,Indigenous Reserve,Tribal,2/26/1998,,,Karaj,729,Sao F,122,MT,Luciara,58300,36,271634.831,34,241311.7234
+775,,Sao Domingos do Jacapari e Estaoao,Indigenous Reserve,Indigenous Reserve,Tribal,12/21/2009,,,Kokama,698,Tabatinga,428,AM,"Jutam, Tonantins",58200,45,740989.6665,19,647450.8287
+670,,Sao Francisco,Indigenous Reserve,Indigenous Reserve,Tribal,1/1/1993,,,Tikuna,538,Manaus,0,AM,Manacapuru,41400,0,187684.8675,6,187683.6847
+632,,Sao Francisco do Canimari,Indigenous Reserve,Indigenous Reserve,Tribal,7/27/2009,,,Tikuna,465,Tabatinga,80,AM,Amatur,41500,23,763410.1674,20,638167.8417
+701,,Sao Gabriel/Sao Salvador,Indigenous Reserve,Indigenous Reserve,Tribal,4/17/2003,,,Kokama,569,Tabatinga,0,AM,Santo Ant,57200,45,757682.8818,20,647220.7968
+652,,Sao Joao,Indigenous Reserve,Indigenous Reserve,Tribal,11/27/2002,,,Arapiun,520,Itaituba,0,PA,Santarnm,59500,3,112945.4966,28,112956.9207
+440,,Sao Leopoldo,Indigenous Reserve,Indigenous Reserve,Tribal,10/2/2002,,,Tikuna,160,Tabatinga,400,AM,Benjamin Constant,41700,23,750586.7439,20,596561.0642
+658,,Sao Luiz do TapajCs,Indigenous Reserve,Indigenous Reserve,Tribal,8/6/2008,,,Munduruku,526,Itaituba,0,PA,Itaituba,57800,3,268358.3991,70,62660.75582
+618,,Sao Marcos - MT,Indigenous Reserve,Indigenous Reserve,Tribal,4/27/1989,,,Xavante,433,C,1813,MT,Barra do GarRas,58100,19,271726.4336,79,15526.5853
+621,,Sao Marcos - RR,Indigenous Reserve,Indigenous Reserve,Tribal,9/27/2002,,,"Makuxi, Wapixana",436,Boa Vista,2262,RR,"Boa Vista, Pacaraima",58400,0,558003.2541,59,441503.3727
+431,,Sao Pedro,Indigenous Reserve,Indigenous Reserve,Tribal,9/14/1999,,,Mura,151,Manaus,47,AM,Autazes,41800,0,200841.6906,6,200832.6107
+526,,Sao Pedro do Sepatini,Indigenous Reserve,Indigenous Reserve,Tribal,3/31/1999,,,Apurina,303,Rio Branco,66,AM,LMbrea,41900,23,188300.8691,19,74270.86934
+790,,Sao Sebastiao,Indigenous Reserve,Indigenous Reserve,Tribal,4/19/2005,,,Cayxana,726,Tabatinga,224,AM,Tonantins,42000,45,764055.5198,19,668052.747
+699,,Sao Sebastiao Meneroazinho,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Kanamari,567,Manaus,43,AM,Jurum,61600,45,685633.7934,19,622230.2424
+569,,Sapotal,Indigenous Reserve,Indigenous Reserve,Tribal,12/15/2006,,,Kokama,365,Tabatinga,379,AM,Tabatinga,51500,23,770152.9028,20,620585.2086
+780,,Sarar,Indigenous Reserve,Indigenous Reserve,Tribal,8/26/1987,,,Manairisu,709,Vilhena,70,MT,"Conquista D'Oeste, Nova Lacerda, Vila Bela da Santassima Trindade",42100,17,49656.31693,33,49668.40653
+441,,Sarau,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2010,,,Amanay,164,Marab,0,PA,Ipixuna do Par,58900,51,184193.0726,80,184184.2657
+637,,Sepoti,Indigenous Reserve,Indigenous Reserve,Tribal,6/17/2009,,,Tenharin,470,Porto Velho,65,AM,"Humaiti, Manicor",42300,41,231532.7553,75,157860.4192
+504,,Serra da MoUa,Indigenous Reserve,Indigenous Reserve,Tribal,12/6/1996,,,Wapixana,268,Boa Vista,440,RR,"Alto Alegre, Boa Vista",42400,0,581104.9865,59,464981.4149
+389,,Serra Morena,Indigenous Reserve,Indigenous Reserve,Tribal,3/11/1990,,,Cinta Larga,100,Cacoal,97,MT,Ju,42600,4,64151.5143,29,64146.6887
+409,,Seruini/Mariene,Indigenous Reserve,Indigenous Reserve,Tribal,11/23/2004,,,Apurina,129,Rio Branco,160,AM,"LMbrea, Pauini",42800,23,250826.5116,20,82635.70728
+505,,Sete de Setembro,Indigenous Reserve,Indigenous Reserve,Tribal,9/16/1999,,,Surua,271,Cacoal,694,"MT, RO","Cacoal, Espigao d'Oeste, Rondolcndia",43000,40,96416.68511,64,96430.7344
+784,,Setema,Indigenous Reserve,Indigenous Reserve,Tribal,5/5/2009,,,Mura,714,Manaus,77,AM,"Borba, Novo Aripuana",43100,0,325966.3493,6,325959.3308
+752,,Sissa,Indigenous Reserve,Indigenous Reserve,Tribal,12/8/2008,,,Mura,642,Manaus,0,AM,Autazes,69000,0,163087.1999,6,163078.7373
+627,,Soror,Indigenous Reserve,Indigenous Reserve,Tribal,3/7/1989,,,Aikewar,449,Marabi,190,PA,"Maraba, Sao Domingos do Araguaia, Sao Geraldo do Araguaia",43200,5,140767.986,67,31858.52137
+681,,Soror,Indigenous Reserve,Indigenous Reserve,Tribal,12/5/2003,,,"Aikewar, SuruG",549,Marab,0,PA,"Maraba, Sao Domingos do Araguaia, Sao Geraldo do Araguaia",63900,5,162540.8504,67,53689.8962
+390,,Sucuba,Indigenous Reserve,Indigenous Reserve,Tribal,9/4/2000,,,Makuxi,101,Boa Vista,177,RR,Alto Alegre,43300,0,564050.4751,59,450140.3323
+727,,Sururue,Indigenous Reserve,Indigenous Reserve,Tribal,6/10/2010,,,Kokama,596,Tabatinga,0,AM,"Benjamin Constant, Sao Paulo de Olivenoa",53900,23,741141.7511,20,588927.4598
+566,,Tabalascada,Indigenous Reserve,Indigenous Reserve,Tribal,5/25/2006,,,Wapixana,357,Boa Vista,302,RR,Cantx,43500,0,514520.6073,59,398562.7713
+776,,Tabocal,Indigenous Reserve,Indigenous Reserve,Tribal,7/20/2009,,,Mura,699,Manaus,15,AM,Careiro,43600,0,223002.3463,6,222998.2877
+391,,Tadarimana,Indigenous Reserve,Indigenous Reserve,Tribal,5/18/1987,,,Bororo,102,Rondon,245,MT,Rondon,43700,19,65536.45648,36,65534.57716
+392,,Taihantesu,Indigenous Reserve,Indigenous Reserve,Tribal,10/30/1997,,,Wasusu,103,Vilhena,0,MT,Nova Lacerda,43800,17,122753.8997,44,92463.70278
+758,,Tanaru ( InterdiIao ),Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,Isolados,670,Vilhena,0,RO,"Chupinguaia, Corumbiara, Parecis, Pimenteiras do Oeste",66300,40,94459.47393,64,94459.91643
+336,,Tapirap,Indigenous Reserve,Indigenous Reserve,Tribal,6/24/2005,,,Karaj,9,Sao F,467,MT,"Luciara, Santa Terezinha",44000,28,253809.8397,34,239324.5948
+739,,Tapirap,Indigenous Reserve,Indigenous Reserve,Tribal,7/2/2007,,,Karaj,613,Sao F,467,MT,Luciara e Santa Terezinha,44000,28,271031.292,34,243677.8377
+393,,Temb0,Indigenous Reserve,Indigenous Reserve,Tribal,6/15/1994,,,Temb1,105, ,41,PA,Tomb-Atu,44600,51,196363.6096,80,196357.3856
+417,,Tenharim do Igarapx Preto,Indigenous Reserve,Indigenous Reserve,Tribal,7/17/2006,,,Tenharin,137,Porto Velho,62,AM,Novo Aripuana,44700,41,226610.6102,75,92091.1867
+531,,Tenharim Marmelos,Indigenous Reserve,Indigenous Reserve,Tribal,10/2/2007,,,Tenharin,308,Porto Velho,298,AM,"Humaiti, ManicorR",44800,41,142092.5076,75,11972.54897
+787,,Tenharim Marmelos (Gleba B),Indigenous Reserve,Indigenous Reserve,Tribal,8/31/2007,,,Tenharin,721,Porto Velho,393,AM,"Humaiti, Manicoro",62900,41,175992.5153,75,120745.4904
+796,,Terena Gleba Iriri,Indigenous Reserve,Indigenous Reserve,Tribal,10/18/2005,,,Terena,746,RondonApolis,0,MT,Matupa,44900,28,576854.3212,74,233641.1405
+692,,Tereza Cristina,Indigenous Reserve,Indigenous Reserve,Tribal,9/29/2005,,,Bororo,560,Rondondpolis,358,MT,Santo Antlnio do Leverger,45000,19,74349.21649,36,74352.32881
+726,,Tereza Cristina,Indigenous Reserve,Indigenous Reserve,Tribal,3/9/1967,,,Bororo,594,Rondondpolis,358,MT,Santo Antlnio do Leverger,45000,19,51683.70622,36,51686.05654
+546,,Terra Vermelha,Indigenous Reserve,Indigenous Reserve,Tribal,5/13/1997,,,Apurina,323,Manaus,288,AM,Beruri,45100,0,436197.2448,6,436196.6589
+606,,Terra Vermelha,Indigenous Reserve,Indigenous Reserve,Tribal,4/19/2007,,,Apurina,420,Manaus,288,AM,"Anori, Beruri, Tapaui",45100,0,424198.0257,6,424197.2541
+728,,Tik0na de Feijoal,Indigenous Reserve,Indigenous Reserve,Tribal,11/25/2004,,,"Kokama, Tikuna",597,Tabatinga,2830,AM,"Benjamin Constant, Sao Paulo de Oliven",45300,23,745225.3625,20,595609.0169
+761,,Tikuna de Santo Antonio,Indigenous Reserve,Indigenous Reserve,Tribal,9/24/2002,,,Tikuna,675,Tabatinga,1095,AM,Benjamin Constant,46800,23,795517.6833,20,640324.1709
+614,,Tirecatinga,Indigenous Reserve,Indigenous Reserve,Tribal,10/22/1987,,,Halotesu,428,Tangart da Serra,117,MT,Sapezal,45500,24,159661.3133,44,44844.09739
+446,,Tor0,Indigenous Reserve,Indigenous Reserve,Tribal,6/13/2007,,,"Apurina, Tora",172,Porto Velho,103,AM,"Humaita, Manicoro",45900,41,325052.1754,75,278336.4186
+542,,Trincheira,Indigenous Reserve,Indigenous Reserve,Tribal,1/15/1998,,,Mura,319,Manaus,169,AM,Autazes,46100,0,198223.8115,6,198214.7342
+583,,Trincheira Bacaja,Indigenous Reserve,Indigenous Reserve,Tribal,9/1/1998,,,"Apiterewa, Araweto, Asurins, Xikrin",382,Altamira,308,PA,"Altamira, Anapu, Sao Fulix do Xingu, Senador Jos  Porfsrio",46200,51,158547.1769,10,75197.55991
+771,,TrocarI,Indigenous Reserve,Indigenous Reserve,Tribal,5/24/1990,,,Asurin,691,Marabo,239,PA,Tucuru,46300,51,27662.2098,80,27674.48924
+506,,TrocarU,Indigenous Reserve,Indigenous Reserve,Tribal,12/12/1983,,,Asurin,274,Marab,239,PA,"Baiao, Tucurub",46300,51,23439.16569,80,23444.44472
+783,,Trombetas/Mapuera,Indigenous Reserve,Indigenous Reserve,Tribal,12/21/2009,,,"Hixkaryana, Isolados, Karafawyana, Katuena, Mawayana, Pianokota, Sikiana, Tunayana, Waimiri Atroari, Waiw䀈i, Xereu",712,Parintins,2805,"AM, PA, RR","Caroebe, Faro, NhamundK, Oriximin,, Sao Joao da Baliza, Urucara",46400,0,122422.9354,59,23324.61813
+394,,Truaru,Indigenous Reserve,Indigenous Reserve,Tribal,5/30/1997,,,"Makuxi, Wapixana",106,Boa Vista,182,RR,"Alto Alegre, Boa Vista",46500,0,589038.5622,59,473823.0447
+507,,Tubarao Latunde,Indigenous Reserve,Indigenous Reserve,Tribal,11/21/1995,,,"Aikann, Laiana",275,Vilhena,160,RO,Chupinguaia,46700,40,49688.37085,64,49677.85702
+438,,Tukuna Porto Espiritual,Indigenous Reserve,Indigenous Reserve,Tribal,4/22/1996,,,Tikuna,158,Tabatinga,160,AM,Benjamin Constant,46900,23,771431.2111,20,617104.6957
+547,,Tukuna Umariaau,Indigenous Reserve,Indigenous Reserve,Tribal,2/9/2001,,,Tikuna,324,Tabatinga,3300,AM,Tabatinga,47000,23,792058.0347,20,639392.6924
+519,,Tumia,Indigenous Reserve,Indigenous Reserve,Tribal,4/9/1999,,,Apurina,296,Rio Branco,120,AM,LMbrea,47100,23,225479.465,20,79115.25291
+757,,Tunayana,Indigenous Reserve,Indigenous Reserve,Tribal,3/26/2010,,,Tunayana,664,Parintins,0,PA,Oriximin,69700,0,348866.8367,11,223012.4844
+435,,Tupa-Supl,Indigenous Reserve,Indigenous Reserve,Tribal,9/12/2006,,,Tikuna,155,Manaus,42,AM,"Alvaraes, Uarini",47200,0,625374.3716,19,599860.5949
+396,,Tur0/Mariquita,Indigenous Reserve,Indigenous Reserve,Tribal,6/22/1994,,,Temb1,111, ,20,PA,Tomb-AUu,47300,51,223214.5495,80,223210.4636
+512,,Tur0/Mariquita II,Indigenous Reserve,Indigenous Reserve,Tribal,3/20/1996,,,Temb ,282, ,0,PA,Tomb-Adu,47400,51,222232.3964,80,222228.4341
+747,,Ua6a,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,Karipuna,636,Oiapoque,3665,AP,Oiapoque,47600,2,282320.2249,13,179948.1586
+774,,Ua6a,Indigenous Reserve,Indigenous Reserve,Tribal,3/17/1995,,,Karipuna,697,Oiapoque,3665,AP,Oiapoque,47600,2,245075.5698,13,140850.6144
+537,,Uati-Paran,Indigenous Reserve,Indigenous Reserve,Tribal,11/22/1995,,,Tikuna,314,Tabatinga,330,AM,"Fonte Boa, Japura, Tonantins",47700,45,774305.1021,19,687737.1901
+563,,Ubawawe,Indigenous Reserve,Indigenous Reserve,Tribal,3/8/2001,,,Xavante,354,Nova Xavantina,349,MT,Novo Sao Joaquim,47800,34,232036.9666,2,77739.81596
+611,,Uirapuru,Indigenous Reserve,Indigenous Reserve,Tribal,5/18/2010,,,Paresi,425,Tangari da Serra,0,MT,"Campos de JSlio, Nova Lacerda",47900,17,77145.16695,33,77156.15476
+508,,Umutina,Indigenous Reserve,Indigenous Reserve,Tribal,1/30/1995,,,Barbados,276,Tangaro da Serra,268,MT,Barra do Bugres,48000,26,97336.98423,65,76746.08908
+577,,Uneiuxi,Indigenous Reserve,Indigenous Reserve,Tribal,6/25/2001,,,Mak,374,Manaus,160,AM,Santa Isabel do Rio Negro,48100,0,738178.1948,59,720429.6747
+797,,Uneiuxi,Indigenous Reserve,Indigenous Reserve,Tribal,9/5/2007,,,Mak,748,Manaus,160,AM,"Japur , Santa Isabel do Rio Negro",48100,0,738487.0573,59,720752.0614
+453,,Urubu Branco,Indigenous Reserve,Indigenous Reserve,Tribal,11/22/1999,,,Tapirapi,182,Sao F,88,MT,"Confresa, Luciara, Porto Alegre do Norte, Santa Terezinha",48300,28,309936.1009,34,292351.7034
+484,,Urucu/Juru,Indigenous Reserve,Indigenous Reserve,Tribal,12/19/1996,,,Guajajara,225,Sao Lu,416,MA,Itaipava do Graja ,48400,5,210698.5052,73,166187.0689
+589,,Uru-Eu-Wau-Wau,Indigenous Reserve,Indigenous Reserve,Tribal,9/14/1988,,,Uru-pa-in,396,Porto Velho,1200,RO,"Alvorada d'Oeste, Cacaulendia, Campo Novo de Rond nia, Costa Marques, Governador Jorge Teixeira, Guajar -Mirim, Jaru, Mirante da Serra, Monte Negro, Nova Mamor",48200,23,155534.7954,39,155527.6081
+769,,Utaria Wyhyna/Iradu Irrna,Indigenous Reserve,Indigenous Reserve,Tribal,6/10/2010,,,"Javap, Karajg",689,Gurupi,0,TO,Pium,62400,28,179898.9427,46,179957.1615
+613,,Utiariti,Indigenous Reserve,Indigenous Reserve,Tribal,10/22/1987,,,Paresi,427,Tangar,245,MT,"Campo Novo do Parecis, Sapezal",48500,24,82709.24752,44,60900.97881
+517,,Vale do Guapor ,Indigenous Reserve,Indigenous Reserve,Tribal,10/28/1987,,,Nambikwara,294,Vilhena,445,MT,"Comodoro, Nova Lacerda",48600,17,107419.4074,44,95847.44458
+437,,Vale do Javari,Indigenous Reserve,Indigenous Reserve,Tribal,7/31/2002,,,"Kanamari, Kulina, Matos, Mayoruna",157,Atalaia do Norte,3027,AM,"Atalaia do Norte, Benjamin Constant, Juta , Sao Paulo de OlivenGa",48700,23,638208.1563,20,472920.3916
+713,,Valparaiso,Indigenous Reserve,Indigenous Reserve,Tribal,2/4/2004,,,Apurina,581,Rio Branco,50,AM,Boca do Acre,59800,23,292717.5332,20,121152.7466
+641,,Vila Real,Indigenous Reserve,Indigenous Reserve,Tribal,6/30/2003,,,Guajajara,509,Barra do Corda,0,MA,Barra do Corda,56900,5,252573.4771,76,152583.2668
+668,,Vista Alegre,Indigenous Reserve,Indigenous Reserve,Tribal,6/24/2008,,,Mura,536,Manaus,23,AM,Manaquiri,54100,0,217842.581,6,217838.7605
+527,,Vui-Uata-In,Indigenous Reserve,Indigenous Reserve,Tribal,1/21/1998,,,Tikuna,304,Tabatinga,1900,AM,Amatur,49300,23,735185.4098,20,607637.083
+782,,Wahuri,Indigenous Reserve,Indigenous Reserve,Tribal,10/27/2009,,,Javap,711,Gurupi,0,TO,Sandolandia,70400,36,178687.7986,56,178738.2523
+366,,Waiapi,Indigenous Reserve,Indigenous Reserve,Tribal,4/25/1997,,,Waripi,57,Macapa,495,AP,"Laranjal do Jari, Pedra Branca do Amapari",49400,2,127879.4857,7,228.8883263
+538,,Waimiri-Atroari,Indigenous Reserve,Indigenous Reserve,Tribal,10/1/1999,,,"Atroari, Waimiri",315,Manaus,754,"AM, RR","Novo Airao, Presidente Figueiredo, Rorainipolis, Sao Joao da Baliza, UrucarI",49500,0,108495.0917,59,51941.20394
+560,,WaiW0i,Indigenous Reserve,Indigenous Reserve,Tribal,1/28/2004,,,Mawayana,351,Boa Vista,350,RR,Caracara,49600,0,333653.1102,59,216717.6676
+518,,Wawi,Indigenous Reserve,Indigenous Reserve,Tribal,3/22/1999,,,Suy,295,Xingu,240,MT,Quer,49800,34,430396.8088,74,247339.6251
+748,,Wawi,Indigenous Reserve,Indigenous Reserve,Tribal,6/2/2008,,,Suy,637,Xingu,240,MT,Quer,49800,34,462179.4644,74,281970.2809
+395,,XambioU,Indigenous Reserve,Indigenous Reserve,Tribal,5/5/1998,,,"Guarani, Karajo",108,Aragua,226,TO,"Santa F, do Araguaia",50100,5,193071.32,4,75714.95174
+509,,Xerente,Indigenous Reserve,Indigenous Reserve,Tribal,10/15/1987,,,Xerente,278,Gurupi,1095,TO,Tocantenia,50300,28,16976.64638,62,1121.514419
+510,,Xikrin do Rio Catete,Indigenous Reserve,Indigenous Reserve,Tribal,6/21/1994,,,Xikrin,279,Marab,575,PA,"Agua Azul do Norte, MarabR, Parauapebas",50500,51,263025.6358,49,194316.1296
+778,,Xipaya,Indigenous Reserve,Indigenous Reserve,Tribal,9/25/2009,,,Kuru,704,Altamira,47,PA,Altamira,50600,3,258830.9851,15,175486.2466
+628,,Yanomami,Indigenous Reserve,Indigenous Reserve,Tribal,9/1/2009,,,Yanomami,456,Boa Vista,6706,"AM, RR","Alto Alegre, Barcelos, Boa Vista, Caracaral, Mucajaa, Santa Isabel do Rio Negro, Sao Gabriel da Cachoeira",50900,0,446044.2282,59,356223.1499
+585,,Zo'e,Indigenous Reserve,Indigenous Reserve,Tribal,5/3/2010,,,Zo',384, ,178,PA,Obidos,51000,3,259103.6952,11,69031.94414
+511,,Zor0,Indigenous Reserve,Indigenous Reserve,Tribal,11/6/1987,,,Zor,280,Porto Velho,300,MT,Aripuana,51100,40,115450.7152,64,115462.0988
+676,,Zor0,Indigenous Reserve,Indigenous Reserve,Tribal,9/20/2001,,,Zor,544,Porto Velho,300,MT,Aripuana,51100,4,129506.7158,29,129521.6922
+451,,Zuruaha,Indigenous Reserve,Indigenous Reserve,Tribal,4/12/1996,,,Zuruaha,180,Manaus,123,AM,Tapauh,51200,23,290662.2059,19,175207.9894
+709,,Zuruaha,Indigenous Reserve,Indigenous Reserve,Tribal,10/7/2004,,,Zuruaha,577,Manaus,123,AM,Tapauh,51200,23,302973.7093,20,178803.6397
+285,1039,AREA DE PROTE CO AMBIENTAL TRIUNFO DO XINGU,Enviornmental Protection Area,Sustainable Use,State,2006,1810,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,3,317758.9882,15,294143.4051
+287,1927,AREA DE PROTE EO AMBIENTAL - BAIXO RIO BRANCO,Enviornmental Protection Area,Sustainable Use,State,2006,4125,Correct,Funda14o Estadual do Meio Ambiente e Recursos Hcdricos de Roraima,,,,,,,0,225605.2485,59,174256.2096
+329,1887,1REA DE PROTE EO AMBIENTAL DA BAIXADA MARANHENSE,Enviornmental Protection Area,Sustainable Use,State,1991,3753,Approximate,Secretaria de Estado de Meio Ambiente e Recursos Naturais do Maranhdo,,,,,,,5,392289.0512,73,313136.8214
+294,1027,1REA DE PROTE EO AMBIENTAL DA ILHA DO COMBU,Enviornmental Protection Area,Sustainable Use,State,1997,1801,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,287432.865,80,287431.8892
+222,1025,1REA DE PROTE EO AMBIENTAL DA REGImO METROLPOLITANA DE BELnM,Enviornmental Protection Area,Sustainable Use,State,1993,12191,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,292123.2167,80,292122.2504
+290,1893,1REA DE PROTE EO AMBIENTAL DA REGInO DO MARACANa,Enviornmental Protection Area,Sustainable Use,State,1991,4446,Approximate,Secretaria de Estado de Meio Ambiente e Recursos Naturais do Maranhdo,,,,,,,5,558318.0995,73,484050.6146
+310,1491,1REA DE PROTE EO AMBIENTAL DAS NASCENTES DE ARAGUAINA,Enviornmental Protection Area,Sustainable Use,State,1999,1712,Correct,Instituto Natureza do Tocantins,,,,,,,5,94092.21741,4,76446.3829
+262,1885,1REA DE PROTE EO AMBIENTAL DAS REENTR NCIAS MARANHENSES,Enviornmental Protection Area,Sustainable Use,State,1991,4438,Approximate,Secretaria de Estado de Meio Ambiente e Recursos Naturais do Maranhdo,,,,,,,51,478364.3594,73,451538.061
+270,1024,1REA DE PROTE EO AMBIENTAL DE ALGODOAL-MAIANDEUA,Enviornmental Protection Area,Sustainable Use,State,1990,12173,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,421876.3336,80,421873.9493
+306,1026,1REA DE PROTE EO AMBIENTAL DE SbO GERALDO DO ARAGUAIA,Enviornmental Protection Area,Sustainable Use,State,1996,1803,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,5,105130.6746,67,6652.168838
+304,1888,1REA DE PROTE EO AMBIENTAL DE UPAON-AtU / MIRITIBA / ALTO PREGUIuAS,Enviornmental Protection Area,Sustainable Use,State,1992,4448,Correct,Secretaria de Estado de Meio Ambiente e Recursos Naturais do Maranh o,,,,,,,5,506540.2893,73,438772.8191
+319,1023,1REA DE PROTE EO AMBIENTAL DO ARQUIPeLAGO DO MARAJo,Enviornmental Protection Area,Sustainable Use,State,1989,1805,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,16,88932.19178,31,88924.33667
+227,1890,1REA DE PROTE EO AMBIENTAL DO ITAPIRACd,Enviornmental Protection Area,Sustainable Use,State,1997,4444,Approximate,Secretaria de Estado de Meio Ambiente e Recursos Naturais do Maranhdo,,,,,,,5,574573.9856,73,499788.0748
+327,1029,1REA DE PROTE EO AMBIENTAL DO LAGO DE TUCURUI,Enviornmental Protection Area,Sustainable Use,State,2002,1809,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,0,80,0
+300,1016,1REA DE PROTE EO AMBIENTAL DO RIO PRETO,Enviornmental Protection Area,Sustainable Use,State,2006,2026,Correct,Secretaria do Meio Ambiente da Bahia,,,,,,,28,267671.818,21,95497.92237
+274,1500,1REA DE PROTE EO AMBIENTAL FOZ DO RIO SANTA TEREZA,Enviornmental Protection Area,Sustainable Use,State,1997,1716,Correct,Instituto Natureza do Tocantins,,,,,,,36,29386.20554,56,29363.6574
+230,1494,1REA DE PROTE EO AMBIENTAL LAGO DE PEIXE/ANGICAL,Enviornmental Protection Area,Sustainable Use,State,2002,1713,Correct,Instituto Natureza do Tocantins,,,,,,,36,0,56,0
+298,1493,1REA DE PROTE EO AMBIENTAL LAGO DE SANTA ISABEL,Enviornmental Protection Area,Sustainable Use,State,2002,1714,Correct,Instituto Natureza do Tocantins,,,,,,,5,95764.89171,67,176.9744357
+249,1492,"1REA DE PROTE EO AMBIENTAL LAGO DE SeO SALVADOR DO TOCANTINS, PARAN  E PALMEIR)POLIS",Enviornmental Protection Area,Sustainable Use,State,2002,1715,Correct,Instituto Natureza do Tocantins,,,,,,,48,0,72,0
+276,1028,1REA DE PROTE EO AMBIENTAL PAYTUNA,Enviornmental Protection Area,Sustainable Use,State,2001,12182,Approximate,Instituto de Desenvolvimento Florestal e da Biodiversidade do Parn,,,,,,,3,65480.27641,50,54435.77523
+255,1498,1REA DE PROTE EO AMBIENTAL SERRA DO LAJEADO,Enviornmental Protection Area,Sustainable Use,State,1997,1720,Correct,Instituto Natureza do Tocantins,,,,,,,28,1072.994357,46,1025.16726
+268,1501,1REA DE PROTEDeO AMBIENTAL ILHA DO BANANAL/CANTdO,Enviornmental Protection Area,Sustainable Use,State,1997,1717,Correct,Instituto Natureza do Tocantins,,,,,,,28,83605.36722,46,83607.04255
+234,1497,1REA DE PROTEDeO AMBIENTAL LAGO DE PALMAS,Enviornmental Protection Area,Sustainable Use,State,1999,1719,Correct,Instituto Natureza do Tocantins,,,,,,,28,29595.66497,46,29649.24285
+235,1499,1rea de Proteuro Ambiental Jalap1o,Enviornmental Protection Area,Sustainable Use,State,2000,1718,Correct,Instituto Natureza do Tocantins,,,,,,,28,180572.5549,21,23316.36207
+236,1896,1REA DE PROTEurO AMBIENTAL NASCENTES DO RIO PARAGUAI,Enviornmental Protection Area,Sustainable Use,State,2006,3797,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,59345.73866,48,59351.86813
+253,1983,1REA DE RELEVANTE INTERESSE ECOLvGICO JAPIIM PENTECOSTE,Area of ??Relevant Ecological Interest,Sustainable Use,State,2009,4836,Correct,Secretaria de Estado de Meio Ambiente do Acre,,,,,,,23,899350.1118,20,729279.4775
+278,293,2REA DE PROTE EO AMBIENTAL DO RIO CURIA ,Enviornmental Protection Area,Sustainable Use,State,1998,1702,Correct,Secretaria de Estado do Meio Ambiente do Amape,,,,,,,16,68485.25324,31,68478.15017
+265,2065,2REA DE PROTE EO AMBIENTAL DO RIO MADEIRA,Enviornmental Protection Area,Sustainable Use,State,1991,5350,Correct,Secretaria de Estado do Desenvolvimento Ambiental de Rond nia,,,,,,,45,0,68,0
+250,305,3REA DE PROTEurO AMBIENTAL BACIA DO RIO DE JANEIRO,Enviornmental Protection Area,Sustainable Use,State,1993,4858,Correct,Secretaria do Meio Ambiente da Bahia,,,,,,,36,228263.7258,55,111046.4865
+313,453,4REA DE PROTE EO AMBIENTAL DAS CABECEIRAS DO RIO CUIAB ,Enviornmental Protection Area,Sustainable Use,State,1998,3789,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,25382.73662,48,25381.59654
+242,478,4REA DE PROTE EO AMBIENTAL DO SALTO MAGESSI,Enviornmental Protection Area,Sustainable Use,State,2002,3795,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,147967.6266,47,0
+271,461,4REA DE PROTEDeO AMBIENTAL DA CHAPADA DOS GUIMARiES,Enviornmental Protection Area,Sustainable Use,State,1995,3791,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,25582.26491,24,300.8850754
+323,886,8REA DE PROTE EO AMBIENTAL DA FAZENDINHA,Enviornmental Protection Area,Sustainable Use,State,2004,2401,Correct,Secretaria de Estado do Meio Ambiente do Amape,,,,,,,16,99631.79656,31,99625.05987
+312,993,9REA DE PROTE EO AMBIENTAL DE PRESIDENTE FIGUEIREDO - CAVERNA DO MOROAGA,Enviornmental Protection Area,Sustainable Use,State,1990,3910,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,0,6,0
+318,940,9REA DE PROTE EO AMBIENTAL IGARAPi SnO FRANCISCO,Enviornmental Protection Area,Sustainable Use,State,2005,4670,Approximate,Secretaria de Estado de Meio Ambiente do Acre,,,,,,,23,341125.0885,20,214496.5713
+228,941,9REA DE PROTE EO AMBIENTAL LAGO DO AMAP ,Enviornmental Protection Area,Sustainable Use,State,2005,4706,Correct,Secretaria de Estado de Meio Ambiente do Acre,,,,,,,23,345575.1989,20,221050.2263
+226,994,9REA DE PROTE EO AMBIENTAL MARGEM DIREITA DO RIO NEGRO- SETOR PADUARI-SOLIMaES,Enviornmental Protection Area,Sustainable Use,State,1995,3903,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,150986.5213,6,150982.4651
+244,995,9REA DE PROTE EO AMBIENTAL MARGEM ESQUERDA DO RIO NEGRO-SETOR TARUM  A U-TARUM) MIRIMA,Enviornmental Protection Area,Sustainable Use,State,1995,3919,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,111317.1998,6,111315.0837
+245,997,9REA DE PROTE EO AMBIENTAL NHAMUNDn,Enviornmental Protection Area,Sustainable Use,State,1990,3535,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,3,235585.5548,11,157580.9801
+295,996,9REA DE PROTEDeO AMBIENTAL MARGEM ESQUERDA DO RIO NEGRO-SETOR ATURI -APUAUZINHO,Enviornmental Protection Area,Sustainable Use,State,1995,3914,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,74434.63459,6,74436.41939
+275,998,FLORESTA ESTADUAL APU ,Forest,Sustainable Use,State,2005,2897,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,242043.702,32,215472.5847
+328,999,FLORESTA ESTADUAL ARIPUANn,Forest,Sustainable Use,State,2005,3767,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,150685.0491,29,150689.4732
+248,1737,FLORESTA ESTADUAL CANUTAMA,Forest,Sustainable Use,State,2009,4620,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,45,259802.899,19,251252.3628
+233,1035,FLORESTA ESTADUAL DE FARO,Forest,Sustainable Use,State,2006,12179,Approximate,Instituto de Desenvolvimento Florestal e da Biodiversidade do Parn,,,,,,,0,185533.0114,6,185528.5585
+247,1036,FLORESTA ESTADUAL DE IRIRI,Forest,Sustainable Use,State,2006,1725,Approximate,Instituto de Desenvolvimento Florestal e da Biodiversidade do Parn,,,,,,,3,333286.117,15,221637.7579
+251,2059,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO ARARAS,Forest,Sustainable Use,State,1996,5248,Correct,Secretaria de Estado do Desenvolvimento Ambiental de Rond nia,,,,,,,41,121240.8467,75,68812.81348
+326,763,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO CEDRO,Forest,Sustainable Use,State,1996,4776,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,157682.0586,75,49454.75517
+221,740,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO DO RIO MACHADO,Forest,Sustainable Use,State,1990,4930,Schematic,Secretaria de Estado do Desenvolvimento Ambiental de Rondania,,,,,,,41,96568.86261,75,5109.896403
+269,758,"FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO DO RIO MADEIRA """"B""""",Forest,Sustainable Use,State,1996,4920,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,45,22049.20947,68,22050.34772
+280,761,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO GAVIdO,Forest,Sustainable Use,State,1996,4782,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,121804.8694,75,53777.32691
+291,759,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO MUTUM,Forest,Sustainable Use,State,1996,4784,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,124661.5597,75,60550.92097
+224,778,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO PERIQUITO,Forest,Sustainable Use,State,1996,4721,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,116540.4471,75,61582.01875
+260,739,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO RIO VERMELHO (C),Forest,Sustainable Use,State,1990,4928,Schematic,Secretaria de Estado do Desenvolvimento Ambiental de Rondania,,,,,,,45,14775.13543,68,14785.66267
+283,760,FLORESTA ESTADUAL DE RENDIMENTO SUSTENTADO TUCANO,Forest,Sustainable Use,State,1996,4771,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,122485.2749,75,81778.35361
+284,1731,FLORESTA ESTADUAL DE TAPAUs,Forest,Sustainable Use,State,2009,4622,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,41,198084.1124,66,198090.0286
+259,885,FLORESTA ESTADUAL DO AMAPr,Forest,Sustainable Use,State,2006,5236,Approximate,Secretaria de Estado do Meio Ambiente do Amapi,,,,,,,16,301.4315591,13,0
+219,1754,FLORESTA ESTADUAL DO ARAGUAIA,Forest,Sustainable Use,State,2002,2983,Correct,Secretaria Estadual do Meio Ambiente e dos Recursos Hodricos de Goi s,,,,,,,36,247191.745,56,247256.07
+325,1038,FLORESTA ESTADUAL DO PARU,Forest,Sustainable Use,State,2006,1791,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,46,30109.17653,45,19394.79478
+279,1037,FLORESTA ESTADUAL DO TROMBETAS,Forest,Sustainable Use,State,2006,1792,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,3,199022.3771,11,10329.86044
+314,1000,FLORESTA ESTADUAL MANICORe,Forest,Sustainable Use,State,2005,3779,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,207410.8252,75,94780.25458
+264,1003,FLORESTA ESTADUAL MAoES,Forest,Sustainable Use,State,2003,947,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,236275.4895,70,87431.18695
+225,1002,FLORESTA ESTADUAL RIO URUBU,Forest,Sustainable Use,State,2003,946,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,46802.39978,6,46799.65199
+330,1001,FLORESTA ESTADUAL SUCUNDURI,Forest,Sustainable Use,State,2005,3769,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,151673.761,29,151675.3409
+299,1735,RESERVA DE DESENVOLVIMENTO SUSTENT VEL DO MATUPIRI,Sustainable Development Reserve,Sustainable Use,State,2009,4629,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,308609.5099,6,308603.4867
+232,1977,RESERVA DE DESENVOLVIMENTO SUSTENTAVEL DO RIO MADEIRA,Sustainable Development Reserve,Sustainable Use,State,2006,4618,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,312069.6852,6,312063.5226
+246,3182,RESERVA DE DESENVOLVIMENTO SUSTENTAVEL PURANGA CONQUISTA,Sustainable Development Reserve,Sustainable Use,State,2014,11715,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,123009.6384,6,123010.0102
+301,985,RESERVA DE DESENVOLVIMENTO SUSTENTiVEL CUJUBIM,Sustainable Development Reserve,Sustainable Use,State,2003,929,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,23,540756.8875,20,378918.7117
+293,981,RESERVA DE DESENVOLVIMENTO SUSTENTmVEL AMANi,Sustainable Development Reserve,Sustainable Use,State,1998,925,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,371083.1936,59,367935.5579
+297,982,RESERVA DE DESENVOLVIMENTO SUSTENTmVEL ARIPUANt,Sustainable Development Reserve,Sustainable Use,State,2005,3771,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,150419.0527,29,150422.6144
+281,984,RESERVA DE DESENVOLVIMENTO SUSTENTmVEL CANUMe,Sustainable Development Reserve,Sustainable Use,State,2005,928,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,224163.3728,6,224153.4302
+239,1573,RESERVA DE DESENVOLVIMENTO SUSTENTmVEL DO JUMA,Sustainable Development Reserve,Sustainable Use,State,2006,3870,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,376829.9219,75,320496.2893
+322,292,RESERVA DE DESENVOLVIMENTO SUSTENTmVEL DO RIO IRATAPURU,Sustainable Development Reserve,Sustainable Use,State,1997,1606,Correct,Secretaria de Estado do Meio Ambiente do Amape,,,,,,,46,26201.14381,7,0
+309,986,RESERVA DE DESENVOLVIMENTO SUSTENTmVEL MAMIRAUt,Sustainable Development Reserve,Sustainable Use,State,1990,3885,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,601932.3308,6,601937.5499
+267,1030,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL ALCOBAoA,Sustainable Development Reserve,Sustainable Use,State,2002,1799,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,3721.737756,80,3729.918238
+324,983,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL BARARATI,Sustainable Development Reserve,Sustainable Use,State,2005,3773,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,267806.707,32,204059.1224
+272,1730,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL DO RIO NEGRO,Sustainable Development Reserve,Sustainable Use,State,2008,2951,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,170120.9831,6,170119.3269
+273,990,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL DO UATUMa,Sustainable Development Reserve,Sustainable Use,State,2004,4634,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,43476.11149,6,43465.95325
+316,987,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL PIAGAzU PURUS,Sustainable Development Reserve,Sustainable Use,State,2003,3872,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,352138.3596,6,352137.7952
+315,988,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL RIO AMAPa,Sustainable Development Reserve,Sustainable Use,State,2005,3874,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,41,368305.1883,75,339637.3368
+305,989,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL UACARr,Sustainable Development Reserve,Sustainable Use,State,2005,2898,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,23,477236.1192,20,344472.7197
+223,1031,RESERVA DE DESENVOLVIMENTO SUSTENTsVEL PUCURUi - ARARiO,Sustainable Development Reserve,Sustainable Use,State,2002,1800,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,17502.2263,80,17501.10011
+220,1732,RESERVA DE DESENVOLVIMENTO SUSTENTtVEL IGAPR-AuU,Sustainable Development Reserve,Sustainable Use,State,2009,4627,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,327492.1015,6,327488.1987
+282,743,RESERVA EXTRATIVISTA ANGELIM,Extractive Reserve,Sustainable Use,State,1995,4933,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,136781.2129,75,44270.5178
+231,754,RESERVA EXTRATIVISTA AQUARIQUARA,Extractive Reserve,Sustainable Use,State,1995,4935,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,178907.5226,75,77661.39383
+256,1733,RESERVA EXTRATIVISTA CANUTAMA,Extractive Reserve,Sustainable Use,State,2009,4631,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,45,202728.5847,19,178761.4802
+254,753,RESERVA EXTRATIVISTA CASTANHEIRA,Extractive Reserve,Sustainable Use,State,1995,4937,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,154033.8515,75,63564.48228
+289,991,RESERVA EXTRATIVISTA CATUe-IPIXUNA,Extractive Reserve,Sustainable Use,State,2003,3876,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,45,518166.8258,19,499723.4249
+321,771,RESERVA EXTRATIVISTA CURRALINHO,Extractive Reserve,Sustainable Use,State,1995,4939,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,347351.6485,39,347347.8776
+266,992,RESERVA EXTRATIVISTA DO GUARIBA,Extractive Reserve,Sustainable Use,State,2005,3775,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,170620.927,29,170631.2154
+303,748,RESERVA EXTRATIVISTA DO ITAeBA,Extractive Reserve,Sustainable Use,State,1995,4941,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,174311.3821,75,89607.29476
+257,1506,RESERVA EXTRATIVISTA DO RIO GREGiRIO,Extractive Reserve,Sustainable Use,State,2007,12580,Schematic,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,23,699727.6376,20,527477.4437
+292,745,RESERVA EXTRATIVISTA FREIJs,Extractive Reserve,Sustainable Use,State,1995,4943,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,172040.0892,75,74168.31444
+302,757,RESERVA EXTRATIVISTA GARROTE,Extractive Reserve,Sustainable Use,State,1995,4945,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,179467.7456,75,69441.71142
+261,463,RESERVA EXTRATIVISTA GUARIBA-ROOSEVELT,Extractive Reserve,Sustainable Use,State,1996,3963,Schematic,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,95838.02088,29,95852.36619
+237,749,RESERVA EXTRATIVISTA IP ,Extractive Reserve,Sustainable Use,State,1995,4947,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,136309.375,75,57143.15707
+263,776,RESERVA EXTRATIVISTA JACI-PARANb,Extractive Reserve,Sustainable Use,State,1996,4949,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,34066.93548,39,34056.86697
+317,750,RESERVA EXTRATIVISTA JATOBi,Extractive Reserve,Sustainable Use,State,1995,4952,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,169282.447,75,88822.31082
+238,744,RESERVA EXTRATIVISTA MARACATIARA,Extractive Reserve,Sustainable Use,State,1995,4954,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,180848.5773,75,55459.18976
+240,751,RESERVA EXTRATIVISTA MASSARANDUBA,Extractive Reserve,Sustainable Use,State,1995,4956,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,181070.2008,75,64644.87122
+241,747,RESERVA EXTRATIVISTA MOGNO,Extractive Reserve,Sustainable Use,State,1995,4963,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,157619.0159,75,45294.37734
+277,773,RESERVA EXTRATIVISTA PEDRAS NEGRAS,Extractive Reserve,Sustainable Use,State,1995,4958,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,40,229575.7873,64,229580.485
+308,746,RESERVA EXTRATIVISTA PIQUIi,Extractive Reserve,Sustainable Use,State,1995,4961,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,171050.5866,75,76598.53855
+296,775,RESERVA EXTRATIVISTA RIO CAUTARIO,Extractive Reserve,Sustainable Use,State,1995,3665,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,277515.2442,39,277510.2783
+320,772,RESERVA EXTRATIVISTA RIO PACAFS NOVOS,Extractive Reserve,Sustainable Use,State,1995,3673,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,170765.3701,39,170764.2552
+229,777,RESERVA EXTRATIVISTA RIO PRETO-JACUND ,Extractive Reserve,Sustainable Use,State,1996,3675,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,111775.5246,75,4791.808118
+258,755,RESERVA EXTRATIVISTA ROXINHO,Extractive Reserve,Sustainable Use,State,1995,4965,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,176016.0184,75,73034.06994
+252,756,RESERVA EXTRATIVISTA SERINGUEIRA,Extractive Reserve,Sustainable Use,State,1995,4967,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,177750.0563,75,71730.74846
+286,752,RESERVA EXTRATIVISTA SUCUPIRA,Extractive Reserve,Sustainable Use,State,1995,4969,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,151174.0263,75,52967.75778
+307,2045,RESERVA PARTICULAR DO PATRIM NIO NATURAL CRISTALINO I,Private Reservation of the Natural Heritage,Sustainable Use,State,2011,5098,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,394939.226,78,97727.1777
+243,1924,RESERVA PARTICULAR DO PATRIM NIO NATURAL CRISTALINO III,Private Reservation of the Natural Heritage,Sustainable Use,State,2007,4113,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,392773.1575,78,96958.49596
+288,2754,RESERVA PARTICULAR DO PATRIMbNIO NATURAL POLEIRO GRANDE,Private Reservation of the Natural Heritage,Sustainable Use,State,1998,7395,Correct,Instituto de Meio Ambiente do Mato Grosso do Sul,,,,,,,19,142090.143,36,142095.7984
+311,2790,RESERVA PARTICULAR DO PATRIMiNIO NATURAL FAZENDA LOANDA,Private Reservation of the Natural Heritage,Sustainable Use,State,2011,7575,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,26,171804.8899,52,22625.41788
+168,1919,ESTA,Esta,Protection Integral,State,2003,4055,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,104356.9774,29,104368.2715
+171,1891,ESTA,Esta,Protection Integral,State,2005,4465,Approximate,Secretaria de Estado de Meio Ambiente e Recursos Naturais do Maranhdo,,,,,,,5,573786.1746,73,498139.2759
+175,1034,ESTA,Esta,Protection Integral,State,2006,1818,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,46,233850.3082,11,99073.69469
+197,1899,ESTA,Esta,Protection Integral,State,1997,3812,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,177133.6543,75,124739.5276
+180,764,ESTAetO ECOLeGICA SAMUEL,Esta,Protection Integral,State,1989,3694,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,41,26898.08142,66,26888.93817
+179,768,ESTAetO ECOLeGICA SERRA DOS TRoS IRMnOS,Esta,Protection Integral,State,1990,4730,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,11493.5923,39,11499.37715
+204,451,ESTAitO ECOLtGICA DO RIO RONURO,Estao Ecologica,Protection Integral,State,1998,3952,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,236717.058,47,89752.67231
+217,1489,MONUMENTO NATURAL DAS oRVORES FOSSILIZADAS,Natural Monument,Protection Integral,State,2000,1711,Correct,Instituto Natureza do Tocantins,,,,,,,5,93402.46508,81,75825.10344
+188,1920,MONUMENTO NATURAL MORRO DE SANTO ANTeNIO,Natural Monument,Protection Integral,State,2006,4057,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,103137.4986,24,80578.82667
+200,939,PARQUE ESTADUAL CHANDLESS,Park,Protection Integral,State,2004,1626,Correct,Secretaria de Estado de Meio Ambiente do Acre,,,,,,,23,553212.5513,20,396214.0389
+206,2042,PARQUE ESTADUAL CHARAPUCU,Park,Protection Integral,State,2010,5041,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,16,135275.1345,31,135267.1729
+211,1901,PARQUE ESTADUAL CRISTALINO,Park,Protection Integral,State,2000,3955,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,378463.9576,78,86285.50889
+201,1021,PARQUE ESTADUAL DA SERRA DOS MARTeRIOS/ANDORINHAS,Park,Protection Integral,State,1996,1795,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,5,104987.6399,67,14105.58558
+191,421,PARQUE ESTADUAL DAS NASCENTES DO RIO TAQUARI,Park,Protection Integral,State,1999,2234,Correct,Instituto de Meio Ambiente do Mato Grosso do Sul,,,,,,,39,163059.8528,77,18096.1234
+194,1495,PARQUE ESTADUAL DE CORUMBIARA,Park,Protection Integral,State,1990,1620,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,40,138087.5151,64,138085.2616
+173,765,PARQUE ESTADUAL DE GUAJARe-MIRIM,Park,Protection Integral,State,1990,3681,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,103126.8659,39,103121.9391
+166,1032,PARQUE ESTADUAL DE MONTE ALEGRE,Park,Protection Integral,State,2001,12177,Approximate,Instituto de Desenvolvimento Florestal e da Biodiversidade do Parn,,,,,,,3,83020.0772,50,65343.47776
+172,1467,PARQUE ESTADUAL DE oGUAS QUENTES,Park,Protection Integral,State,1978,3818,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,112952.6478,24,56165.24246
+198,1744,PARQUE ESTADUAL DO ARAGUAIA,Park,Protection Integral,State,2002,2965,Approximate,Secretaria Estadual do Meio Ambiente e dos Recursos Hldricos de Goids,,,,,,,36,247712.2779,56,247776.5782
+177,1917,PARQUE ESTADUAL DO ARAGUAIAA,Park,Protection Integral,State,2001,4051,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,36,244151.3337,56,244205.99
+169,1882,PARQUE ESTADUAL DO BACANGA,Park,Protection Integral,State,1980,4461,Approximate,Secretaria de Estado de Meio Ambiente e Recursos Naturais do Maranhdo,,,,,,,5,561754.6827,73,487143.94
+203,1487,PARQUE ESTADUAL DO CANToO,Park,Protection Integral,State,1998,2098,Correct,Instituto Natureza do Tocantins,,,,,,,28,174758.7837,46,174809.7693
+210,477,PARQUE ESTADUAL DO GUIRm,Park,Protection Integral,State,2002,3824,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,20,209897.1245,38,209888.7091
+202,1486,PARQUE ESTADUAL DO JALAPeO,Park,Protection Integral,State,2001,1624,Correct,Instituto Natureza do Tocantins,,,,,,,28,164478.5575,21,0
+208,1488,PARQUE ESTADUAL DO LAJEADO,Park,Protection Integral,State,2001,1625,Correct,Instituto Natureza do Tocantins,,,,,,,28,29684.25335,46,29706.71417
+181,1736,PARQUE ESTADUAL DO MATUPIRI,Park,Protection Integral,State,2009,4624,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,351446.9896,6,351442.9264
+196,1022,PARQUE ESTADUAL DO UTINGA,Park,Protection Integral,State,1993,12175,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,297588.8381,80,297587.8176
+183,470,PARQUE ESTADUAL DO XINGU,Park,Protection Integral,State,2001,3851,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,28,437043.5026,74,323364.7707
+176,460,PARQUE ESTADUAL DOM OSiRIO STOFFEL,Park,Protection Integral,State,2002,3861,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,19,49382.35293,36,49382.55801
+182,1916,PARQUE ESTADUAL ENCONTRO DAS AGUAS,Park,Protection Integral,State,2004,4047,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,19,168994.1413,36,168999.7163
+185,1004,PARQUE ESTADUAL GUARIBA,Park,Protection Integral,State,2005,3777,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,191068.0191,75,145346.7953
+170,455,PARQUE ESTADUAL IGARAPeS DO JURUENA,Park,Protection Integral,State,2002,3959,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,128735.8218,29,128738.9022
+207,464,PARQUE ESTADUAL MnE BONIFnCIA,Park,Protection Integral,State,2000,6083,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,84713.27271,24,72621.38864
+189,1007,PARQUE ESTADUAL RIO NEGRO SETOR NORTE,Park,Protection Integral,State,1995,3931,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,194659.1286,6,194665.472
+186,1006,PARQUE ESTADUAL RIO NEGRO SETOR SUL,Park,Protection Integral,State,1995,3596,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,110568.9482,6,110571.3111
+190,472,PARQUE ESTADUAL SERRA AZUL,Park,Protection Integral,State,1994,3971,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,19,302245.0611,79,105622.6353
+216,1008,PARQUE ESTADUAL SERRA DO ARACA,Park,Protection Integral,State,1990,3537,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,481804.1787,59,407679.8148
+184,774,PARQUE ESTADUAL SERRA DOS REIS,Park,Protection Integral,State,1997,3667,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,325924.8927,39,325919.9976
+214,448,PARQUE ESTADUAL SERRA RICARDO FRANCO,Park,Protection Integral,State,1997,3853,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,17,113512.0118,33,113522.3572
+195,462,PARQUE ESTADUAL SERRA SANTA BvRBARA,Park,Protection Integral,State,1997,3855,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,17,72337.66536,33,72336.74105
+187,1009,PARQUE ESTADUAL SUCUNDURI,Park,Protection Integral,State,2005,3868,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,4,164564.6551,32,146330.3138
+213,1010,PARQUE ESTADUAL SUMA MA,Park,Protection Integral,State,2003,954,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,135445.4736,6,135440.9699
+215,454,PARQUE ESTADUAL tGUAS DO CUIABm,Park,Protection Integral,State,2002,3965,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,72243.53728,48,72241.39249
+167,456,PARQUE ESTADUAL TUCUMv,Park,Protection Integral,State,2002,3859,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,4,210032.9226,75,84621.24361
+174,1903,PARQUE ESTADUAL Za BOLO FLs,Park,Protection Integral,State,2000,6087,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,88366.88163,24,70420.20205
+212,475,REF,Wildlife Refuge,Protection Integral,State,2001,3978,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,36,253200.8837,56,253259.4956
+192,1881,REF1GIO DE VIDA SILVESTRE METRMPOLE DA AMAZoNIA,Wildlife Refuge,Protection Integral,State,2010,4243,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,51,300703.6607,80,300702.2551
+193,457,RESERVA BIOL GICA CULUENE,Biological Reserve,Protection Integral,State,1989,6085,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,34,288973.5363,79,156636.6023
+209,1033,RESERVA BIOLeGICA DE MAICURU,Biological Reserve,Protection Integral,State,2006,7000,Correct,Instituto de Desenvolvimento Florestal e da Biodiversidade do Para,,,,,,,46,159690.1439,45,112094.3883
+178,767,RESERVA BIOLeGICA RIO OURO PRETO,Biological Reserve,Protection Integral,State,1990,3669,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,167752.6689,39,167750.0092
+205,770,RESERVA BIOLeGICA TRAdADAL,Biological Reserve,Protection Integral,State,1990,3671,Approximate,Secretaria de Estado do Desenvolvimento Ambiental de Rondtnia,,,,,,,23,214996.082,39,214994.4654
+199,1011,RESERVA BIOLsGICA MORRO DOS SEIS LAGOS,Biological Reserve,Protection Integral,State,1990,955,Correct,Secretaria de Estado do Meio Ambiente do Amazonas,,,,,,,0,828256.672,59,787408.9972
+155,2742,2REA DE PROTE￿￿O AMBIENTAL PARQUE LINEAR DO BIND￿,Enviornmental Protection Area,Sustainable Use,Municipal,2012,7277,Schematic,Secretaria Municipal de Meio Ambiente e Sustentabilidade de Manaus - AM,,,,,,,0,140360.372,6,140355.9927
+160,2832,2REA DE PROTEniO AMBIENTAL MUNICIPAL DO ARICe-AuU,Enviornmental Protection Area,Sustainable Use,Municipal,1999,7884,Correct,Secretaria Municipal de Meio Ambiente e Assuntos Fundi rios - Cuiab /MT,,,,,,,34,64572.35479,24,29185.13444
+159,2976,AREA DE PROTECAO AMBIENTAL XERIUINI,Enviornmental Protection Area,Sustainable Use,Municipal,1999,8803,Schematic,Prefeitura Municipal de Caracarap - RR,,,,,,,0,271522.9432,59,247059.741
+161,2738,AREA DE PROTEniO AMBIENTAL TARUMA/PONTA NEGRA,Enviornmental Protection Area,Sustainable Use,Municipal,2008,7279,Schematic,Secretaria Municipal de Meio Ambiente e Sustentabilidade de Manaus - AM,,,,,,,0,108001.6137,6,107999.6051
+157,2663,AREA DE RELEVANTE INTERESSE ECOLOGICO MUSEU PARQUE SERINGAL,Area of ??Relevant Ecological Interest,Sustainable Use,Municipal,2012,6826,Approximate,Secretaria Municipal de Meio Ambiente de Ananindeua - PA,,,,,,,51,306173.7021,80,306172.7968
+156,1960,AREA DE RELEVANTE INTERESSE ECOLOGICO PARQUE AMBIENTAL ANTONIO DANUBIO LOURENeO DA SILVA,Area of ??Relevant Ecological Interest,Sustainable Use,Municipal,2011,4926,Approximate,Secretaria Municipal de Meio Ambiente de Ananindeua - PA,,,,,,,51,303937.5691,80,303936.5834
+158,2556,RESERVA DE DESENVOLVIMENTO SUSTENTnVEL DO TUPi,Sustainable Development Reserve,Sustainable Use,Municipal,2005,6408,Schematic,Secretaria Municipal de Meio Ambiente e Sustentabilidade de Manaus - AM,,,,,,,0,141529.1184,6,141526.6135
+165,2792,MONUMENTO NATURAL CANYONS E CORREDEIRAS DO RIO SONO,Natural Monument,Protection Integral,Municipal,2012,7597,Approximate,Prefeitura Municipal de S0o Felix do Tocantins - TO,,,,,,,28,163330.8822,12,2307.937177
+162,2855,PARQUE NATURAL MUNICIPAL DO CANC湉O,Park,Protection Integral,Municipal,2007,7879,Correct,Prefeitura Municipal de Serra do Navio - AP,,,,,,,2,81814.75168,1,4025.797405
+164,3196,PARQUE NATURAL MUNICIPAL PARQUE FLORESTAL DE SINOP,Park,Protection Integral,Municipal,2014,11734,Correct,Prefeitura de Sinop - MT,,,,,,,34,336260.8752,74,61693.26685
+163,3163,PARQUE NATURAL MUNICIPAL VEREDAS DOS CARAJPS,Park,Protection Integral,Municipal,2011,11497,Correct,Secretaria Municipal de Meio Ambiente de Canae dos Carajos - PA,,,,,,,5,257227.0166,4,126014.448
+132,12,1REA DE PROTEcoO AMBIENTAL SERRA DA TABATINGA,Enviornmental Protection Area,Sustainable Use,Federal,1990,2295,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,28,262830.9826,21,94756.28071
+117,22,2REA DE PROTEcoO AMBIENTAL DO IGARAPo GELADO,Enviornmental Protection Area,Sustainable Use,Federal,1989,39,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,238739.3632,49,125325.4822
+142,268,2REA DE PROTEcoO AMBIENTAL DO TAPAJmS,Enviornmental Protection Area,Sustainable Use,Federal,2006,7635,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,385589.5642,37,14345.72313
+67,24,2REA DE PROTEcoO AMBIENTAL MEANDROS DO ARAGUAIA,Enviornmental Protection Area,Sustainable Use,Federal,1998,42,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,36,191222.2747,56,191277.7129
+78,3407,3REA DE PROTEcoO AMBIENTAL DOS CAMPOS DE MANICORr,Enviornmental Protection Area,Sustainable Use,Federal,2016,12670,Correct,Instituto Chico Mendes de Conserva1/o da Biodiversidade,,,,,,,41,266625.24,75,182389.082
+57,38,3REA DE RELEVANTE INTERESSE ECOLvGICA JAVARI BURITI,Area of ??Relevant Ecological Interest,Sustainable Use,Federal,1985,59,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,749929.3632,20,639058.7706
+153,43,4REA DE RELEVANTE INTERESSE ECOLvGICA PROJETO DINsMICA BIOLtGICA DE FRAGMENTOS FLORESTAIS,Area of ??Relevant Ecological Interest,Sustainable Use,Federal,1985,64,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,61328.07304,6,61324.12016
+143,44,4REA DE RELEVANTE INTERESSE ECOLvGICA SERINGAL NOVA ESPERANtA,Area of ??Relevant Ecological Interest,Sustainable Use,Federal,1999,65,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,436171.1426,20,331322.9251
+121,83,FLORESTA NACIONAL ALTAMIRA,Forest,Sustainable Use,Federal,1998,119,Approximate,Instituto Chico Mendes de Conservaumo da Biodiversidade,,,,,,,3,294675.2066,15,106277.6579
+98,113,FLORESTA NACIONAL DE AMAP ,Forest,Sustainable Use,Federal,1989,166,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,2,31599.2726,61,0
+62,84,FLORESTA NACIONAL DE ANAU ,Forest,Sustainable Use,Federal,2005,1849,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,283837.4983,59,188294.5431
+96,85,FLORESTA NACIONAL DE BALATA-TUFARI,Forest,Sustainable Use,Federal,2005,2369,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,138650.6852,68,138653.5752
+75,116,FLORESTA NACIONAL DE BOM FUTURO,Forest,Sustainable Use,Federal,1988,4036,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,36163.23079,68,36156.85414
+84,88,FLORESTA NACIONAL DE CARAJCS,Forest,Sustainable Use,Federal,1998,1844,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,242165.004,49,121863.818
+63,89,FLORESTA NACIONAL DE CAXIUANn,Forest,Sustainable Use,Federal,1961,131,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,46,137775.6974,10,96856.42231
+114,92,FLORESTA NACIONAL DE HUMAITo,Forest,Sustainable Use,Federal,1999,134,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,105274.9627,75,25415.71261
+129,117,FLORESTA NACIONAL DE ITACAIUNAS,Forest,Sustainable Use,Federal,1998,172,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,243772.873,49,171451.0946
+83,95,FLORESTA NACIONAL DE ITAITUBA I,Forest,Sustainable Use,Federal,1998,7628,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,346644.7881,37,2143.76826
+113,96,FLORESTA NACIONAL DE ITAITUBA II,Forest,Sustainable Use,Federal,1998,7631,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,287424.0821,15,48.66579383
+154,97,FLORESTA NACIONAL DE JACUNDo,Forest,Sustainable Use,Federal,2004,143,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,26387.04849,66,26388.97293
+150,119,FLORESTA NACIONAL DE JATUARANA,Forest,Sustainable Use,Federal,2002,176,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,4,230523.6628,29,230529.3222
+105,120,FLORESTA NACIONAL DE MACAUC,Forest,Sustainable Use,Federal,1988,177,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,493403.136,20,347071.4362
+109,126,FLORESTA NACIONAL DE MAPI -INAUINa,Forest,Sustainable Use,Federal,1989,187,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,331704.4481,20,160309.8915
+66,99,FLORESTA NACIONAL DE MULATA,Forest,Sustainable Use,Federal,2001,146,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,141379.563,45,0
+125,104,FLORESTA NACIONAL DE PAU-ROSA,Forest,Sustainable Use,Federal,2001,8627,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,241205.6758,70,60064.55508
+82,121,FLORESTA NACIONAL DE PURUS,Forest,Sustainable Use,Federal,1988,179,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,306779.914,20,134878.2291
+107,106,FLORESTA NACIONAL DE RORAIMA,Forest,Sustainable Use,Federal,1989,4250,Approximate,Instituto Chico Mendes de Conservaumo da Biodiversidade,,,,,,,0,550185.1418,59,441901.2334
+102,108,FLORESTA NACIONAL DE S O FRANCISCO,Forest,Sustainable Use,Federal,2001,159,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,501987.8249,20,357313.719
+141,107,FLORESTA NACIONAL DE SANTA ROSA DO PURUS,Forest,Sustainable Use,Federal,2001,158,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,621901.5967,20,463626.298
+94,109,FLORESTA NACIONAL DE SARACC-TAQUERA,Forest,Sustainable Use,Federal,1989,160,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,231880.5457,11,100220.2453
+51,123,FLORESTA NACIONAL DE TAPAJS,Forest,Sustainable Use,Federal,1974,7660,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,66445.20589,28,66452.85092
+65,124,FLORESTA NACIONAL DE TAPIRAPn-AQUIRI,Forest,Sustainable Use,Federal,1989,184,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,226232.0232,49,157786.172
+86,112,FLORESTA NACIONAL DE TEFe,Forest,Sustainable Use,Federal,1989,1851,Correct,Instituto Chico Mendes de Conserva/0o da Biodiversidade,,,,,,,45,505524.1248,19,447082.0957
+77,3408,FLORESTA NACIONAL DE URUPADI,Forest,Sustainable Use,Federal,2016,12674,Correct,Instituto Chico Mendes de Conserva1/o da Biodiversidade,,,,,,,4,398711.4992,37,108888.2607
+52,271,FLORESTA NACIONAL DO AMAN ,Forest,Sustainable Use,Federal,2006,12684,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,374936.0393,37,26072.97114
+130,114,FLORESTA NACIONAL DO AMAZONAS,Forest,Sustainable Use,Federal,1989,167,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,451874.7283,59,373202.3693
+68,3409,FLORESTA NACIONAL DO ARIPUANn,Forest,Sustainable Use,Federal,2016,12676,Correct,Instituto Chico Mendes de Conserva1/o da Biodiversidade,,,,,,,41,271033.8396,75,174964.934
+56,270,FLORESTA NACIONAL DO CREPORI,Forest,Sustainable Use,Federal,2006,7633,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,4,406590.5901,37,78446.50691
+59,1612,FLORESTA NACIONAL DO IQUIRI,Forest,Sustainable Use,Federal,2008,2303,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,124147.25,14,0
+151,266,FLORESTA NACIONAL DO JAMANXIM,Forest,Sustainable Use,Federal,2006,394,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,420887.3201,78,156731.3525
+101,118,FLORESTA NACIONAL DO JAMARI,Forest,Sustainable Use,Federal,1984,173,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,35204.71115,66,35195.34127
+87,265,FLORESTA NACIONAL DO TRAIRCO,Forest,Sustainable Use,Federal,2006,393,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,210396.0577,15,57271.85342
+85,218,RESERVA DE DESENVOLVIMENTO SUSTENT VEL  ITATUPv-BAQUId,Sustainable Development Reserve,Sustainable Use,Federal,2005,1859,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,46,116502.8506,31,159392.027
+79,238,RESERVA EXTRATIVISTA  DO RIO CAUTaRIO,Extractive Reserve,Sustainable Use,Federal,2001,1755,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,264088.0428,39,264082.7837
+112,1517,RESERVA EXTRATIVISTA ALTO JURUe,Extractive Reserve,Sustainable Use,Federal,1990,1743,Correct,Instituto Chico Mendes de Conserva,,,,,,,23,800573.4208,20,638498.637
+53,274,RESERVA EXTRATIVISTA ALTO TARAUACa,Extractive Reserve,Sustainable Use,Federal,2000,1450,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,766322.1854,20,601611.217
+58,285,RESERVA EXTRATIVISTA ARAPIXI,Extractive Reserve,Sustainable Use,Federal,2006,2226,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,322840.5359,20,157582.8797
+70,273,RESERVA EXTRATIVISTA ARIeCA PRUANa,Extractive Reserve,Sustainable Use,Federal,2005,1758,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,142722.1337,80,142729.5258
+106,220,RESERVA EXTRATIVISTA AUAT -PARANv,Extractive Reserve,Sustainable Use,Federal,2001,1471,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,724858.4533,19,697658.3626
+88,230,RESERVA EXTRATIVISTA BAIXO JURUr,Extractive Reserve,Sustainable Use,Federal,2001,8209,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,582433.2327,19,515571.9499
+81,221,RESERVA EXTRATIVISTA BARREIRO DAS ANTAS,Extractive Reserve,Sustainable Use,Federal,2001,1706,Correct,Instituto Chico Mendes de Conserva 0o da Biodiversidade,,,,,,,23,222714.2425,39,222712.1033
+64,222,RESERVA EXTRATIVISTA CHICO MENDES,Extractive Reserve,Sustainable Use,Federal,1990,1744,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,365508.636,20,247550.4688
+93,223,RESERVA EXTRATIVISTA CHOCOARn-MATO GROSSO,Extractive Reserve,Sustainable Use,Federal,2002,1769,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,402253.3126,80,402249.7614
+128,279,RESERVA EXTRATIVISTA DE CURURUPU,Extractive Reserve,Sustainable Use,Federal,2004,407,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,564548.3066,73,509963.4763
+103,232,RESERVA EXTRATIVISTA DO CAZUMBe-IRACEMA,Extractive Reserve,Sustainable Use,Federal,2002,1451,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,452128.9063,20,291319.8107
+69,1519,RESERVA EXTRATIVISTA DO CIRInCO,Extractive Reserve,Sustainable Use,Federal,1992,4007,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,5,145200.2199,73,52992.84377
+122,242,RESERVA EXTRATIVISTA DO LAGO DO CAPAN  GRANDE,Extractive Reserve,Sustainable Use,Federal,2004,1473,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,314406.4672,75,307354.1301
+60,1606,RESERVA EXTRATIVISTA DO M DIO PURaS,Extractive Reserve,Sustainable Use,Federal,2008,2291,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,192053.8874,19,87550.17568
+89,239,RESERVA EXTRATIVISTA DO RIO JUTAv,Extractive Reserve,Sustainable Use,Federal,2002,1475,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,655961.9334,19,556032.4364
+144,283,RESERVA EXTRATIVISTA DO RIO UNINI,Extractive Reserve,Sustainable Use,Federal,2006,1489,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,229308.5134,6,229316.6021
+119,240,RESERVA EXTRATIVISTA EXTREMO NORTE DO TOCANTINS,Extractive Reserve,Sustainable Use,Federal,1992,1749,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,5,142761.9691,73,62349.56183
+100,288,RESERVA EXTRATIVISTA GURUPC-MELGAaO,Extractive Reserve,Sustainable Use,Federal,2006,1760,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,46,140831.1032,10,166410.8527
+111,241,RESERVA EXTRATIVISTA IPAe-ANILZINHO,Extractive Reserve,Sustainable Use,Federal,2005,1605,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,58423.50327,80,58431.33792
+149,1628,RESERVA EXTRATIVISTA ITUX ,Extractive Reserve,Sustainable Use,Federal,2008,2370,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,72069.03472,19,0
+148,287,RESERVA EXTRATIVISTA LAGO DO CEDRO,Extractive Reserve,Sustainable Use,Federal,2006,11097,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,48,358989.7492,79,219030.8293
+108,233,RESERVA EXTRATIVISTA LAGO DO CUNIa,Extractive Reserve,Sustainable Use,Federal,1999,1754,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,32475.05076,66,32484.05182
+127,235,RESERVA EXTRATIVISTA M DIO JURUr,Extractive Reserve,Sustainable Use,Federal,1997,1488,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,516100.725,20,385973.2672
+92,243,RESERVA EXTRATIVISTA MAE GRANDE DE CURUaA,Extractive Reserve,Sustainable Use,Federal,2002,1776,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,377348.6904,80,377346.9024
+71,244,RESERVA EXTRATIVISTA MAPU ,Extractive Reserve,Sustainable Use,Federal,2005,1756,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,16,219274.8624,31,219267.2145
+124,227,RESERVA EXTRATIVISTA MARACANn,Extractive Reserve,Sustainable Use,Federal,2002,1778,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,399140.8694,80,399137.6768
+145,247,RESERVA EXTRATIVISTA MARINHA ARAI-PEROBA,Extractive Reserve,Sustainable Use,Federal,2005,1774,Correct,Instituto Chico Mendes de Conserva5/o da Biodiversidade,,,,,,,51,453281.0197,80,453275.3763
+61,248,RESERVA EXTRATIVISTA MARINHA CAETaTAPERA U,Extractive Reserve,Sustainable Use,Federal,2005,1773,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,445162.2602,80,445156.9128
+97,3134,RESERVA EXTRATIVISTA MARINHA CUINARANA,Extractive Reserve,Sustainable Use,Federal,2014,11160,Correct,Instituto Chico Mendes de Conserva4,,,,,,,51,392869.2496,80,392866.8177
+146,249,RESERVA EXTRATIVISTA MARINHA DE GURUPI-PIRIo,Extractive Reserve,Sustainable Use,Federal,2005,1772,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,463660.5548,80,463653.8384
+99,254,RESERVA EXTRATIVISTA MARINHA DE SOURE,Extractive Reserve,Sustainable Use,Federal,2001,1767,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,16,330124.8019,31,330117.9505
+140,3133,RESERVA EXTRATIVISTA MARINHA MESTRE LUCINDO,Extractive Reserve,Sustainable Use,Federal,2014,11158,Correct,Instituto Chico Mendes de Conserva4,,,,,,,51,388615.6593,80,388613.4351
+116,3132,RESERVA EXTRATIVISTA MARINHA MOCAPAJUBA,Extractive Reserve,Sustainable Use,Federal,2014,11156,Correct,Instituto Chico Mendes de Conserva4,,,,,,,51,374384.5894,80,374383.2143
+80,250,RESERVA EXTRATIVISTA MARINHA TRACUATEUA,Extractive Reserve,Sustainable Use,Federal,2005,1771,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,430926.648,80,430921.9876
+135,226,RESERVA EXTRATIVISTA MATA GRANDE,Extractive Reserve,Sustainable Use,Federal,1992,345,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,5,113774.2295,73,16777.33265
+123,1520,RESERVA EXTRATIVISTA QUILOMBO DO FRECHAL,Extractive Reserve,Sustainable Use,Federal,1992,1751,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,566040.8875,73,490567.4718
+104,1810,RESERVA EXTRATIVISTA RENASCER,Extractive Reserve,Sustainable Use,Federal,2009,3230,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,82325.77642,28,82322.1562
+137,1518,RESERVA EXTRATIVISTA RIO CAJARI,Extractive Reserve,Sustainable Use,Federal,1990,1746,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,46,15056.27501,7,132732.7686
+74,280,RESERVA EXTRATIVISTA RIO IRIRI,Extractive Reserve,Sustainable Use,Federal,2006,1705,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,183617.8236,15,180348.7775
+136,256,RESERVA EXTRATIVISTA RIO OURO PRETO,Extractive Reserve,Sustainable Use,Federal,1990,1750,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,139100.6875,39,139098.33
+120,1635,RESERVA EXTRATIVISTA RIO XINGU,Extractive Reserve,Sustainable Use,Federal,2008,2436,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,240929.3192,10,168269.8932
+76,257,RESERVA EXTRATIVISTA RIOZINHO DA LIBERDADE,Extractive Reserve,Sustainable Use,Federal,2005,385,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,794399.2374,20,626429.0189
+134,258,RESERVA EXTRATIVISTA RIOZINHO DO ANFR SIO,Extractive Reserve,Sustainable Use,Federal,2004,1708,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,186787.9957,15,95361.27697
+95,228,RESERVA EXTRATIVISTA S O JOoO DA PONTA,Extractive Reserve,Sustainable Use,Federal,2002,1775,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,375643.6544,80,375642.2534
+91,259,RESERVA EXTRATIVISTA TAPAJCS ARAPIUNS,Extractive Reserve,Sustainable Use,Federal,1998,1753,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,92584.47155,28,92597.22935
+118,282,RESERVA EXTRATIVISTA TERRA GRANDE PRACUUBA,Extractive Reserve,Sustainable Use,Federal,2006,1759,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,253868.848,10,236238.0029
+152,260,RESERVA EXTRATIVISTA VERDE PARA SEMPRE,Extractive Reserve,Sustainable Use,Federal,2004,1757,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,46,100561.9243,10,70036.08862
+139,3077,RESERVA PARTICULAR DO PATRIMnNIO NATURAL AURORA NATURA,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2012,10635,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,48,200054.9954,55,89402.96147
+147,2744,RESERVA PARTICULAR DO PATRIMnNIO NATURAL BICO DO JAVAdS,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2011,7283,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,28,193336.0656,34,173807.0653
+115,2082,RESERVA PARTICULAR DO PATRIMnNIO NATURAL CATEDRAL DO JALAPaO,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2010,10100,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,28,166968.8658,12,5865.500364
+90,2105,RESERVA PARTICULAR DO PATRIMnNIO NATURAL FAZENDA BOSCO,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2005,10012,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,40,109084.5577,64,109088.1382
+131,2106,RESERVA PARTICULAR DO PATRIMnNIO NATURAL FAZENDA CALIXTO,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2009,10102,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,36,193216.7268,55,106544.4853
+72,2708,RESERVA PARTICULAR DO PATRIMnNIO NATURAL GIBEiO,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2012,7042,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,40,152426.24,64,152440.6327
+138,2121,RESERVA PARTICULAR DO PATRIMnNIO NATURAL ILHAS ALEXANDRE RODRIGUES FERREIRA,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2009,9005,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,453864.257,59,416366.0939
+55,3090,RESERVA PARTICULAR DO PATRIMnNIO NATURAL IRMdOS SATELIS,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2012,10686,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,40,152273.0024,64,152287.4205
+133,2129,RESERVA PARTICULAR DO PATRIMnNIO NATURAL KLAGESI,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2005,9873,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,339264.9927,80,339263.39
+110,2709,RESERVA PARTICULAR DO PATRIMnNIO NATURAL NOVA AURORA,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2011,7044,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,40,137252.2684,64,137266.6694
+73,2146,RESERVA PARTICULAR DO PATRIMnNIO NATURAL OSoRIO REIMaO,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2009,9877,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,175062.5117,80,175066.5471
+126,1158,RESERVA PARTICULAR DO PATRIMnNIO NATURAL SESC TEPEQUaM,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2001,10961,Schematic,Instituto Chico Mendes de Conservaeso da Biodiversidade,,,,,,,0,540455.6284,59,424663.0533
+54,2216,RESERVA PARTICULAR DO PATRIMnNIO NATURAL SONHADA,Private Reservation of the Natural Heritage,Sustainable Use,Federal,2010,10108,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,28,179785.4132,46,179834.5654
+1,3131,ESTA,Esta,Protection Integral,Federal,2014,11154,Correct,Instituto Chico Mendes de Conserva4,,,,,,,0,383409.4949,37,97427.58784
+28,76,ESTACAO ECOLOGICA SERRA GERAL DO TOCANTINS,Estao Ecologica,Protection Integral,Federal,2001,1427,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,28,154046.5361,21,20991.87119
+49,75,ESTAitO ECOLiGICA DA SERRA DAS ARARAS,Esta,Protection Integral,Federal,1982,109,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,26,125402.2399,65,114053.5981
+24,47,ESTAitO ECOLiGICA DA TERRA DO MEIO,Estao Ecologica,Protection Integral,Federal,2005,967,Correct,Instituto Chico Mendes de Conserva5,,,,,,,3,178352.9247,10,171105.6538
+26,51,ESTAitO ECOLiGICA DE CARACARAs,Esta,Protection Integral,Federal,1982,1811,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,431017.9907,59,323717.8427
+13,53,ESTAitO ECOLiGICA DE CUNI ,Estao Ecologica,Protection Integral,Federal,2001,4034,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,21420.62795,66,21429.71953
+40,55,ESTAitO ECOLiGICA DE IQUe,Esta,Protection Integral,Federal,1981,1816,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,40,122782.8819,22,81145.03078
+48,56,ESTAitO ECOLiGICA DE JUTA -SOLIMvES,Esta,Protection Integral,Federal,1983,3526,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,717688.8812,20,616223.3966
+23,57,ESTAitO ECOLiGICA DE MARACC,Esta,Protection Integral,Federal,1981,81,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,620688.3066,59,507460.9146
+21,58,ESTAitO ECOLiGICA DE MARACC JIPIOCA,Esta,Protection Integral,Federal,1981,1857,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,2,140643.216,13,86994.86601
+31,60,ESTAitO ECOLiGICA DE NIQUIC,Esta,Protection Integral,Federal,1985,85,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,380411.0958,59,286635.033
+19,62,ESTAitO ECOLiGICA DE TAIAMC,Esta,Protection Integral,Federal,1981,7070,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,20,210358.6741,38,210347.8398
+39,67,ESTAitO ECOLiGICA DO JARI,Esta,Protection Integral,Federal,1982,5260,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,46,24858.29823,7,102133.0749
+32,72,ESTAitO ECOLiGICA JUAMI-JAPURs,Esta,Protection Integral,Federal,1985,106,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,45,838549.3727,20,723663.4138
+30,68,ESTAitO ECOLiGICA RIO ACRE,Esta,Protection Integral,Federal,1981,1825,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,604330.0295,20,474086.7784
+6,136,PARQUE NACIONAL DA AMAZdNIA,Park,Protection Integral,Federal,1974,7625,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,213382.3092,70,0
+47,272,PARQUE NACIONAL DA CHAPADA DAS MESAS,Park,Protection Integral,Federal,2005,5325,Approximate,Instituto Chico Mendes de Conservaumo da Biodiversidade,,,,,,,5,35846.5642,30,35871.52545
+3,138,PARQUE NACIONAL DA CHAPADA DOS GUIMAR ES,Park,Protection Integral,Federal,1989,205,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,34,40084.82217,24,34991.59288
+10,188,PARQUE NACIONAL DA SERRA DA CUTIA,Park,Protection Integral,Federal,2001,1704,Correct,Instituto Chico Mendes de Conserva1,,,,,,,23,234539.6434,39,234535.3992
+34,149,PARQUE NACIONAL DA SERRA DO DIVISOR,Park,Protection Integral,Federal,1989,224,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,884283.9382,20,721032.4538
+27,151,PARQUE NACIONAL DA SERRA DO PARDO,Park,Protection Integral,Federal,2005,227,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,317524.236,10,293193.6684
+9,156,PARQUE NACIONAL DAS NASCENTES DO RIO PARNAIBA,Park,Protection Integral,Federal,2002,12864,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,28,181497.9445,21,34257.57328
+41,49,PARQUE NACIONAL DE ANAVILHANAS,Park,Protection Integral,Federal,1981,5258,Approximate,Instituto Chico Mendes de Conservaumo da Biodiversidade,,,,,,,0,135196.2241,6,135201.7925
+35,163,PARQUE NACIONAL DE PACAdS NOVOS,Park,Protection Integral,Federal,1979,248,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,154968.8412,39,154961.5944
+50,3410,PARQUE NACIONAL DO ACARI,Park,Protection Integral,Federal,2016,12679,Correct,Instituto Chico Mendes de Conserva1/o da Biodiversidade,,,,,,,4,377875.6811,37,217627.1174
+37,168,PARQUE NACIONAL DO ARAGUAIA,Park,Protection Integral,Federal,1959,255,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,28,179827.4341,34,163342.2796
+38,169,PARQUE NACIONAL DO CABO ORANGE,Park,Protection Integral,Federal,1980,257,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,2,212251.6705,13,107313.696
+29,267,PARQUE NACIONAL DO JAMANXIM,Park,Protection Integral,Federal,2006,395,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,273109.027,15,50635.3426
+18,173,PARQUE NACIONAL DO JAs,Park,Protection Integral,Federal,1980,262,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,209119.7751,6,209127.0691
+14,281,PARQUE NACIONAL DO JURUENA,Park,Protection Integral,Federal,2006,1935,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,4,143425.4602,32,69957.07155
+42,174,PARQUE NACIONAL DO MONTE RORAIMA,Park,Protection Integral,Federal,1989,263,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,752470.7205,59,635600.4249
+2,175,PARQUE NACIONAL DO PANTANAL MATOGROSSENSE,Park,Protection Integral,Federal,1981,1822,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,39,248036.4612,60,248052.1527
+15,177,PARQUE NACIONAL DO PICO DA NEBLINA,Park,Protection Integral,Federal,1979,268,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,650381.0241,59,613630.2989
+45,264,PARQUE NACIONAL DO RIO NOVO,Park,Protection Integral,Federal,2006,392,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,4,373168.3716,71,125747.0504
+22,284,PARQUE NACIONAL DOS CAMPOS AMAZrNICOS,Park,Protection Integral,Federal,2006,7662,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,149177.4192,75,10366.89243
+16,1633,PARQUE NACIONAL MAPINGUARI,Park,Protection Integral,Federal,2008,7664,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,23,568.2139539,39,576.6071285
+8,187,PARQUE NACIONAL MONTANHAS DO TUMUCUMAQUE,Park,Protection Integral,Federal,2002,284,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,2,89949.35614,17,0
+20,1626,PARQUE NACIONAL NASCENTES DO LAGO JARI,Park,Protection Integral,Federal,2008,8387,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,266595.3552,66,266600.3025
+5,189,PARQUE NACIONAL SERRA DA MOCIDADE,Park,Protection Integral,Federal,1989,8205,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,415226.2329,59,319761.0494
+12,179,PARQUE NACIONAL VIRUe,Park,Protection Integral,Federal,1998,271,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,0,366810.7536,59,263595.1472
+4,194,RESERVA BIOLiGICA DO ABUFARI,Biological Reserve,Protection Integral,Federal,1982,8463,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,364553.3272,66,364558.909
+44,206,RESERVA BIOLiGICA DO GUAPORo,Biological Reserve,Protection Integral,Federal,1982,312,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,40,168000.8648,64,168008.419
+17,207,RESERVA BIOLiGICA DO GURUPI,Biological Reserve,Protection Integral,Federal,1988,11079,Approximate,Instituto Chico Mendes de Conservaumo da Biodiversidade,,,,,,,5,283531.4203,73,187597.6203
+46,208,RESERVA BIOLiGICA DO JARU,Biological Reserve,Protection Integral,Federal,1979,1599,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,41,201205.8082,75,68150.65835
+25,209,RESERVA BIOLiGICA DO LAGO PIRATUBA,Biological Reserve,Protection Integral,Federal,1980,5323,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,16,89495.13393,13,87564.27176
+7,3411,RESERVA BIOLiGICA DO MANICORn,Biological Reserve,Protection Integral,Federal,2016,12681,Correct,Instituto Chico Mendes de Conserva1/o da Biodiversidade,,,,,,,41,292084.8022,75,204628.7492
+11,210,RESERVA BIOLiGICA DO RIO TROMBETAS,Biological Reserve,Protection Integral,Federal,1979,317,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,3,266828.768,11,125042.9267
+43,211,RESERVA BIOLiGICA DO TAPIRAPn,Biological Reserve,Protection Integral,Federal,1989,319,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,51,211864.599,49,139957.9812
+36,213,RESERVA BIOLiGICA DO UATUMC,Biological Reserve,Protection Integral,Federal,1990,1603,Correct,Instituto Chico Mendes de Conserva/0o da Biodiversidade,,,,,,,0,14465.44,59,4223.307397
+33,216,RESERVA BIOLiGICA NASCENTES SERRA DO CACHIMBO,Biological Reserve,Protection Integral,Federal,2005,329,Correct,Instituto Chico Mendes de Conserva mo da Biodiversidade,,,,,,,4,514992.5238,27,207490.3792
+218,1923,RESERVA PARTICULAR DO PATRIM,Private Reservation of the Natural Heritage,Sustainable Use,State,2010,4111,Correct,Secretaria de Estado do Meio Ambiente de Mato Grosso,,,,,,,,,,
