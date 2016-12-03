@@ -35,6 +35,10 @@ pas_all_areas <- merge(PAs_TI_UC_never_area, UC_def, by="Name", all=T)
 #export file to csv
 write.csv(pas_all_areas, file = "PAs_w_areas.csv", na = "")
 
+
+
+###PART 2
+
 #import edited PAs file
 new_pas_data <- read.csv("./PAs_w_areas_edited.csv", stringsAsFactors = FALSE, na.strings = "")
 
@@ -113,6 +117,39 @@ final_state_table <- new_state_table %>%
   filter(!is.na(Municipality)) %>% 
   distinct()
 
-##this file will be edited in Excel to remove instances where there are two states 
-#in the same column, since I need to manually determine which state has which corresponding municipality
+
 write.csv(final_state_table, file = "state_munic_table.csv")
+##this file was edited in Excel to remove instances where there are two states 
+#in the same column, since I need to manually determine which state has which
+#corresponding municipality
+
+#reimport state/municip file
+
+state_table_eds <- read.csv("./state_munic_table_edited.csv", stringsAsFactors = FALSE, 
+                            na.strings = "")
+
+#remove spaces in front of minicipalities
+trim.leading <- function (x)  sub("^\\s+", "", x)
+state_table_eds$Municipality <- trim.leading(state_table_eds$Municipality)
+
+#remove extra column
+state_table_eds <- subset(state_table_eds, select= - X)
+
+#remove duplicates
+state_table_eds <- state_table_eds %>% 
+  distinct()  
+
+#export final table
+write.csv(state_table_eds, file = "final_state_munic_table.csv", na = "")
+
+
+##remove columns for PA databse that were moved to smaller files (state, municip, organizaiton)
+
+new_pas_data <- subset(new_pas_data, select= -Municipality)
+new_pas_data <- subset(new_pas_data, select= -State)
+new_pas_data <- subset(new_pas_data, select= -Organization_group_name)
+new_pas_data <- subset(new_pas_data, select= -X)
+
+
+#export final database
+write.csv(new_pas_data, file = "Final_PA_Database.csv", na ="")
